@@ -1,0 +1,515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p1_4_5">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>King's College London</publisher>
+            <pubPlace>London</pubPlace>
+         </publicationStmt>
+         <sourceDesc>
+            <p>BasicWebsite.pdf</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+            necessary</change>
+         <change><date>2008-03-06</date><name>Greg Skidmore</name>Removed unwanted dots in the
+            Source Information table</change>
+         <change><date>2007-04-17</date><name>Julia Craig-McFeely</name>table headings
+            revised</change>
+         <change><date>2006-05-10</date><name>Julia Craig-McFeely</name>Text content update</change>
+         <change><date>2004-07-06</date><name>Arianna Ciula</name>creation of p2_8</change>
+      </revisionDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div>
+            <head>Metadata</head>
+            <p>The following Metadata about each individual image is filed in the Database. Some of
+               this is accessible through the existing website, other aspects of the metadata are
+               under review and emendation, and will become available as each section is completed.
+               Content under review is being corrected and updated from existing RISM or Census
+               Catalogue data, and the first hand information provided by DIAMM photographers
+               working with the sources. Information not accessible online is limited to
+               administrative data. Some content under review is not yet sufficiently complete to
+               offer access online, but this will move to accessible and searchable status as soon
+               as possible.</p>
+
+            <div>
+               <head>Library information</head>
+
+               <table rows="12" cols="4">
+                  <row role="label">
+                     <cell role="label" cols="1" rows="1"/>
+                     <cell role="label" cols="1" rows="1">Available on website</cell>
+                     <cell role="label" cols="1" rows="1">Coming online 2007-10</cell>
+                     <cell role="label" cols="1" rows="1">Not accessible online</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Country and city</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Archive name and address</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Contact name</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">E-mail address of library</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">URL of library</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">FTP address of library</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Licence numbers</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Records of correspondence</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Number of sources from the archive</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Number of images from the archive</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">RISM siglum for library</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+               </table>
+
+            </div>
+            <div>
+               <head>Source information</head>
+
+               <table rows="18" cols="4">
+                  <row role="label">
+                     <cell role="label" cols="1" rows="1"/>
+                     <cell role="label" cols="1" rows="1">Available on website</cell>
+                     <cell role="label" cols="1" rows="1">Coming online 2007-10</cell>
+                     <cell role="label" cols="1" rows="1">Not accessible online</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Shelf mark of MS</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Old or alternative shelf mark(s)</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Date of source</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">General description</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Writing surface</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Script/notation</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Bibliography (music transcription)</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Bibliography (text)</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Format</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Page measurements</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Stave gauge</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Written area</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Provenance</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">RISM/Census Catalogue references</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Folios required</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Type of source</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Total number of images in source</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+               </table>
+
+            </div>
+            <div>
+               <head>Image/Folio information</head>
+
+               <table>
+                  <row role="label">
+                     <cell role="label" cols="1" rows="1"/>
+                     <cell role="label" cols="1" rows="1">Available on website</cell>
+                     <cell role="label" cols="1" rows="1">Coming online 2007-10</cell>
+                     <cell role="label" cols="1" rows="1">Not accessible online</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Folio number/page reference in MS</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Storage address</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Date of capture</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Types of images (RGB, UV, slide
+                        etc.)</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Copyright holder and status</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Photographer</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Capture device</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Capture conditions</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Light source</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Lighting equipment</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Distance of light from source @
+                        capture</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Capture software</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">File format</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Scanner mode</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Resolution</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Colour space</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Gamma</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Stored size</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">White point</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Film curve</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">View access address</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Record of modifications</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Restored versions</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">UV capture information</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Thumbnail</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Whether captured/available on web</cell>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+
+               </table>
+
+
+            </div>
+            <div>
+               <head>Item data</head>
+
+               <table>
+                  <row role="label">
+                     <cell role="label" cols="1" rows="1"/>
+                     <cell role="label" cols="1" rows="1">Available on website</cell>
+                     <cell role="label" cols="1" rows="1">Coming online 2007-10</cell>
+                     <cell role="label" cols="1" rows="1">Not accessible online</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Title</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Genre</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Composer</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Composer dates</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Style of notation</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Script style/note shape description</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Number of stave lines</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Stave gauge</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Number of staves</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Number of voices/parts</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">State of piece (incomplete/no of
+                        parts)</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Voice/part designation(s)</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Clef(s)</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Mensuration(s)</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+                  <row role="data">
+                     <cell role="data" cols="1" rows="1">Range of note values visible</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                     <cell role="data" cols="1" rows="1">•</cell>
+                     <cell role="data" cols="1" rows="1"/>
+                  </row>
+               </table>
+
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

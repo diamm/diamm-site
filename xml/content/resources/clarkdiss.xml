@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_9" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Alice V. Clark, Concordare cum Materia: The Tenor in the Fourteenth-century
+                    Motet (PhD, Princeton University, 1996)</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+            <head/>
+
+            <div>
+                <head>PDF Download Links</head>
+
+                <!-- PDF links -->
+                <p>
+                    <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/Clark.pdf">Full dissertation (9.6 MB)</ref>
+                </p>
+                <p>This PDF is made up of images of the original dissertation. It has been scanned
+                    using optical character recognition and should therefore be searchable within
+                    Adobe Acrobat. This process is not perfect, however, so an electronic search of
+                    the document should not be considered exhaustive.</p>
+            </div>
+            <div>
+                <head>Abstract</head>
+                <!-- Abstract -->
+                <p>This study takes as its starting point the description of motet composition by
+                    Egidius de Murino, who says that the tenor should "concord with the matter" of
+                    the motet to be written. The repertory under consideration at this stage is the
+                    French tradition of the mid-fourteenth century, mostly transmitted in the
+                    complete-work manuscripts of Guillaume de Machaut (Paris, Bibliotheque
+                    Nationale, MSS fonds francais 1584, 1585, 1586, 9221 and 22545-22546, and New
+                    York, Wildenstein Galleries) and in the Ivrea codex (Ivrea, Biblioteca
+                    Capitolare, MS 115); this group is further limited to those motets for which a
+                    liturgical source has been identified for the tenor. After an introductory
+                    chapter that traces modern scholarly interest in the tenor's role in the motet,
+                    chapter 2 examines the evidence for compositional manipulation of borrowed
+                    melodic material. The loss of liturgical propriety as a functional criterion
+                    allows the tenor to serve as more than a source of melodic and harmonic
+                    materials, and the possibility of alteration of a chant-based melody suggests
+                    the existence of other reasons for the use of a liturgical source. One of these,
+                    the use of liturgical function as a symbolic device, is explored in chapter 3,
+                    with special focus on a group of French-texted amatory motets that use tenors
+                    from Lent and Holy Week chants, a process that encourages an explicit comparison
+                    between the lover's sufferings and the passio of Christ. Chapter 4 examines
+                    another group of motets, also in French on the subject of love, that appear to
+                    name historical women by the liturgical context of their tenors; these motets
+                    are probably connected with the marriage or betrothal of the women named.
+                    Chapter 5 considers three new tenor sources discovered during the course of this
+                    study and suggests avenues for future work.</p>
+            </div>
+            <div type="contents">
+                <head>Table of Contents</head>
+                <xmt:uList>
+                    <item>Abstract<ref type="pageref">iii</ref></item>
+                    <item>Table of Contents<ref type="pageref">v</ref></item>
+                    <item>Note on the Citation of Motets<ref type="pageref">viii</ref></item>
+                    <item>Acknowledgements<ref type="pageref">ix</ref></item>
+                    <item>Chapter 1: Introduction<ref type="pageref">1</ref></item>
+                    <item>Chapter 2: The Tenor Melody and its Chant Source<ref type="pageref">21</ref>
+                        <xmt:uList>
+                            <item>General Characteristics<ref type="pageref">24</ref></item>
+                            <item>Exact Matches<ref type="pageref">25</ref></item>
+                            <item>Melodic Alteration<ref type="pageref">37</ref></item>
+                            <item>Machaut<ref type="pageref">54</ref></item>
+                            <item>Ivrea<ref type="pageref">65</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Chapter 3: Liturgical Symbolism<ref type="pageref">70</ref>
+                        <xmt:uList>
+                            <item>Machaut<ref type="pageref">73</ref></item>
+                            <item>Ivrea<ref type="pageref">96</ref></item>
+                            <item>Expanding the Range: The Chantilly Codex<ref type="pageref">111</ref></item>
+                            <item>A Backward Look: The Roman de Fauvel<ref type="pageref">122</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Chapter 4: The Vernacular Dedicatory Motet<ref type="pageref">138</ref>
+                        <xmt:uList>
+                            <item>Agnes<ref type="pageref">138</ref></item>
+                            <item>Lucy<ref type="pageref">153</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Chapter 5: New Tenor Sources<ref type="pageref">161</ref>
+                        <xmt:uList>
+                            <item>Displicebat ei etc.<ref type="pageref">162</ref></item>
+                            <item>Non est inventus similes illi<ref type="pageref">174</ref></item>
+                            <item>Magister invidie / Magister meus Christus?<ref type="pageref">181</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Appendix 1: Melodic Comparisons<ref type="pageref">185</ref></item>
+                    <item>Appendix 2: Chant and Biblical Sources<ref type="pageref">237</ref></item>
+                    <item>Manuscripts Cited<ref type="pageref">280</ref></item>
+                    <item>Works Cited<ref type="pageref">288</ref></item>
+                </xmt:uList><p></p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

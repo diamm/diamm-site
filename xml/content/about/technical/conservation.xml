@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p1_4_4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Conservation</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2008-02-22</date><name>Greg Skidmore</name>Put images in tables so they
+                would appear side by side. This is an unsatisfactory solution and requires CCH to
+                alter presentation things.</change>
+            <change><date>2006-05-10</date><name>Julia Craig-McFeely</name>Text content
+                update</change>
+            <change><date>2004-07-05</date><name>Arianna Ciula</name>creation of p2_5</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <head>Conservation</head>
+                <p>Although many of the fragmentary sources of Medieval Polyphonic Music were
+                    damaged by contemporary 'vandalism' - most commonly the use of dismembered
+                    parchment manuscripts to reinforce later bindings - a significant number have
+                    been further damaged by restoration procedures in the early- and mid-1900s.
+                    Restoration always carries some risk and sometimes a certain level of loss often
+                    has to be accepted in favour of the retention of the majority of material for a
+                    longer time.</p>
+                <p>DIAMM aims to ensure that nothing in the digital capture process will hasten the
+                    gradual natural deterioration of any source. In the long term it is hoped that
+                    the availability of high-quality and high-resolution colour images will allow
+                    archives to minimize the direct handling of each source as well as providing a
+                    stable reference point against which deterioration may be measured, and thus aid
+                    in conservation. DIAMM images have proved of sufficient quality to restore a
+                    great deal of material lost through the natural damage incurred during the life
+                    of the source, and in many cases have proved of greater benefit than examining
+                    the original source, since the ability to enlarge on screen well above normal
+                    size has enabled scholars to find material that is not visible to the naked
+                    eye.</p>
+                <div>
+                    <head>Lighting</head>
+                    <p> DIAMM does not use natural daylight nor flash because of the high UV content
+                        of these light sources. We also do not use a flatbed scanner, as the
+                        proximity, heat and brightness of scanning lights is potentially damaging.
+                        Instead we rely on cold fluorescent daylight-balanced tubes, which cast a
+                        clear cold light that emulates daylight in colour, but without the damaging
+                        UV content. These lights are mounted about 70-100 cm from the source and the
+                        image is captured using a digital scanning back and custom-designed camera
+                        body. Although this means that exposure times are quite long, the light
+                        exposure (and therefore the potential for UV damage) is nevertheless
+                        significantly less than a split-second flash exposure, or a slow exposure
+                        under real daylight. The intensity of the light is far less than with most
+                        flatbed scanners, even taking the slow exposure time into account.</p>
+                </div>
+                <div>
+                    <head>Handling</head>
+                    <p> Although it is possible to place some loose leaves on a flatbed scanner, it
+                        is generally impossible with bound manuscripts, and highly undesirable from
+                        the conservation point of view. This method of capture is considered
+                        inadvisable even for loose leaves since, apart from the potential for damage
+                        from scanning lights, inks and particles of the surface or other material
+                        may stick on contact with the glass surface. For this reason DIAMM does not
+                        place any items under glass during photography.</p>
+                    <p>DIAMM personnel have now accrued considerable experience in handling a wide
+                        variety of sources in various stages of repair. We use specially-devised
+                        handling aids to hold pages flat with the minimum of physical contact. In
+                        general the book is allowed to find its own level and ‘comfortable'
+                        position, and the photographic procedure is adjusted to compensate, rather
+                        than forcing the book into an unnatural position for the convenience of the
+                        photographer. Occasionally this has meant that it was impossible to
+                        photograph details e.g. in binding gutters, but we felt that the loss of
+                        minimal material in this way was necessitated by the need for respect of the
+                        binding as a historical artefact in its own right.</p>
+
+
+                    <figure>
+                        <graphic url="capture1.jpg" mimeType="image/jpg" rend="img-left"/>
+                    </figure>
+
+                    <figure>
+                        <graphic url="capture2.jpg" mimeType="image/jpg" rend="img-left"/>
+                    </figure>
+
+
+
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

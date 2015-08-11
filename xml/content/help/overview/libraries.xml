@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p9_2" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Finding Libraries</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change><date>2008-05-02</date><name>Greg Skidmore</name>Created File</change></revisionDesc></teiHeader>
+    <text>
+        <body>
+            <head>Help</head>
+            <div>
+                <head>Finding Libraries</head>
+                <div>
+                    <head>Finding a library to reach a manuscript</head>
+                    <p>Use the Browse or Search functions to ‘enter' a library (see the relevant search page: Finding manuscripts)</p>
+                    <p>
+                        <xmt:uList>
+                            <item>In the Browse section click on the relevant country, then the city, and you will be shown a list of libraries in that city.</item>
+                            <item>In the Search section use the drop-down menus to find the relevant city and then select the required library from the next drop down menu.</item>
+                        </xmt:uList><p></p>
+                    </p>
+                    </div>
+              <div>
+                  <head>Finding contact information for a library</head>
+                  <p>In any display showing the library name (e.g. search results, browse, image-viewer) you can get to the library contact details by clicking on the name of the library.</p>
+                  <p><figure><graphic url="Help10"/></figure></p>
+                  <p>Alternatively you can go to the complete library list <ref type="db" target="LibraryList.jsp">here.</ref></p>
+                  </div>
+            </div>
+        </body>
+    </text>
+</TEI>

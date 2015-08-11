@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_25" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Magnus Williamson, The Eton Choirbook: Its Institutional and Historical
+                    Background (DPhil, Oxford, 1997)</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+            <head/>
+
+            <div>
+                <head>PDF Download Links</head>
+
+                <!-- PDF links -->
+                <p>
+                    <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/WilliamsonChaps.pdf">Full dissertation without
+                        appendices (4.8 MB)</ref> | <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/WilliamsonAppen.pdf">Appendices only (2.3 MB)</ref></p>
+            </div>
+            <div>
+                <head>Abstract</head>
+                <!-- Abstract -->
+                <p>The Eton Choirbook (Eton College Library, MS 178) is one of the most important
+                    English musical codies surviving from the century before the Reformation. Its
+                    significance derives from its size and quality; from its value as a source of
+                    unica; and from its unbroken association with its host institution, one of the
+                    foremost royal foundations of the late Middle Ages. The aims of this thesis were
+                    to examine in detail the circumstances in which it was made; to establish the
+                    reasons for its compilation, when and how it was made, and the most likely
+                    sponsors; to consider its role within the devotional life of the college, to
+                    determine the reasons for its survival and for its present physical state; and
+                    to profile the careers and interests (as far as could be traced) of those who
+                    used it.</p>
+            </div>
+            <div type="contents">
+                <head>Table of Contents</head>
+                <xmt:uList>
+                    <item>Abbreviations<ref type="pageref">5</ref></item>
+                    <item>Introduction<ref type="pageref">7</ref></item>
+                    <item>Acknowledgements<ref type="pageref">21</ref></item>
+                    <item>1. History and Historiography<ref type="pageref">23</ref>
+                        <xmt:uList>
+                            <item>1.1 Henry VI as king and founder<ref type="pageref">23</ref></item>
+                            <item>1.2 Eton within the tradition of royal foundations<ref type="pageref">28</ref></item>
+                            <item>1.3 Revisions and enlargements<ref type="pageref">28</ref></item>
+                            <item>1.4 Eton as a royal college<ref type="pageref">49</ref></item>
+                            <item>1.5 The Eton choirbook in modern musicology<ref type="pageref">55</ref></item>
+                            <item>1.6 MS 178 in the context of contemporary choral practice<ref type="pageref">63</ref></item>
+                        </xmt:uList></item>
+                    <item>2. Liturgy, Devotion and the Daily Round<ref type="pageref">81</ref>
+                        <xmt:uList>
+                            <item>2.1 The devotional day<ref type="pageref">83</ref></item>
+                            <item>2.2 The architectural environment<ref type="pageref">110</ref></item>
+                            <item>2.3 The votive antiphon and its place within the college's
+                                devotional life<ref type="pageref">117</ref></item>
+                            <item>2.4 The liturgical uses and positions of organs<ref type="pageref">124</ref></item>
+                            <item>2.5 Conclusion<ref type="pageref">136</ref></item>
+                        </xmt:uList></item>
+                    <item>3. Establishment, Suppression and Re-establishment: 1440-1479<ref type="pageref">139</ref>
+                        <xmt:uList>
+                            <item>3.1 Precedents<ref type="pageref">140</ref></item>
+                            <item>3.2 The statutory framework<ref type="pageref">146</ref></item>
+                            <item>3.3 Nomination, recruitment and expansion<ref type="pageref">149</ref></item>
+                            <item>3.4 The chronology of expansion and statutory revisions<ref type="pageref">157</ref></item>
+                            <item>3.5 Henry Abyndon<ref type="pageref">159</ref></item>
+                            <item>3.6 Consolidation<ref type="pageref">163</ref></item>
+                            <item>3.7 1465-79: re-establishment and retrenchment<ref type="pageref">170</ref></item>
+                            <item>3.8 Securing the services of a professional choir-trainer<ref type="pageref">177</ref></item>
+                        </xmt:uList></item>
+                    <item>4. MS 178: A Source Study<ref type="pageref">183</ref>
+                        <xmt:uList>
+                            <item>Introduction: issues and objectives<ref type="pageref">183</ref></item>
+                            <item>Paleographical Examination<ref type="pageref">193</ref>
+                                <xmt:uList>
+                                    <item>4.1 MS 178: a description<ref type="pageref">193</ref>
+                                        <xmt:uList>
+                                            <item>4.1.1 quiring and foliation<ref type="pageref">193</ref></item>
+                                            <item>4.1.2 binding<ref type="pageref">198</ref></item>
+                                        </xmt:uList><p></p>
+                                    </item>
+                                    <item>4.2 order of copying<ref type="pageref">201</ref>
+                                        <xmt:uList>
+                                            <item>4.2.1 prima facie evidence<ref type="pageref">208</ref></item>
+                                            <item>4.2.2 scribal evidence<ref type="pageref">222</ref></item>
+                                            <item>Illustrations<ref type="pagereg">261</ref></item>
+                                            <item>4.2.3 illuminations: corroborative evidence of the
+                                                copying order<ref type="pageref">262</ref></item>
+                                            <item>4.2.4 conclusions<ref type="pageref">283</ref></item>
+                                        </xmt:uList><p></p>
+                                    </item>
+
+                                </xmt:uList></item>
+                            <item>Authorship, Ownership and Dating<ref type="pageref">287</ref>
+                                <xmt:uList>
+                                    <item>4.3 the date of MS 178<ref type="pageref">287</ref></item>
+                                    <item>4.4 the financing of MS 178<ref type="pageref">300</ref>
+                                        <xmt:uList>
+                                            <item>4.4.1 other sources and institutions<ref type="pageref">301</ref></item>
+                                            <item>4.4.2 possible donors of MS 178<ref type="pageref">311</ref></item>
+                                        </xmt:uList></item>
+                                    <item>4.5 the significance of cantus firmus<ref type="pageref">319</ref></item>
+                                    <item>4.6 conclusion: MS 178 and its concordances<ref type="pageref">328</ref></item>
+                                </xmt:uList></item>
+                        </xmt:uList></item>
+                    <item>5. The Institutional Background, 1479-1530<ref type="pageref">339</ref>
+                        <xmt:uList>
+                            <item>5.1 Financial recovery<ref type="pageref">339</ref></item>
+                            <item>5.2 The prosopographical background<ref type="pageref">343</ref></item>
+                            <item>5.3 Recruitment and provision after 1510<ref type="pageref">364</ref></item>
+                            <item>5.4 Employment practices, promotion and skills<ref type="pageref">366</ref></item>
+                            <item>5.5 Chaplains and their musical role<ref type="pageref">374</ref></item>
+                            <item>5.6 Musical activity among the scholars<ref type="pageref">382</ref></item>
+                            <item>5.7 Conclusion<ref type="pageref">395</ref></item>
+                        </xmt:uList></item>
+                    <item>6. Schism, Reformation and Counter-Reformation, 1530-1558<ref type="pageref">396</ref>
+                        <xmt:uList>
+                            <item>6.1 Musical and liturgical changes before 1547<ref type="pageref">399</ref></item>
+                            <item>6.2 The Edwardine Reformation<ref type="pageref">411</ref></item>
+                            <item>6.3 Reform and restoration: MS 178<ref type="pageref">432</ref></item>
+                            <item>6.4 Conclusion<ref type="pageref">440</ref></item>
+                        </xmt:uList></item>
+                    <item>Conclusion<ref type="pageref">442</ref></item>
+                    <item>Appendices <xmt:uList>
+                            <item>A. Daily suffrages and observances<ref type="pageref">455</ref></item>
+                            <item>B. The liturgical rota<ref type="pageref">469</ref></item>
+                            <item>C. Biographical register <xmt:uList>
+                                    <item>1. clerks of Eton College, 1440-1560<ref type="pageref">478</ref></item>
+                                    <item>2. chaplains<ref type="pageref">487</ref></item>
+                                    <item>3. choristers, scholars and fellows<ref type="pageref">496</ref></item>
+                                </xmt:uList></item>
+                            <item>D. The career of John Browne<ref type="pageref">504</ref></item>
+                            <item>E. Year-lists of clerks, chaplains and choristers<ref type="pageref">512</ref></item>
+                            <item>F. College officials, 1444-1560<ref type="pageref">512</ref></item>
+                            <item>G. Income and expenditure<ref type="pageref">535</ref></item>
+                            <item>H. Selected wills<ref type="pageref">539</ref></item>
+                        </xmt:uList></item>
+                    <item>Manuscript muniments, Eton College, 1440-1560<ref type="pageref">545</ref></item>
+                    <item>Bibliography<ref type="pageref">550</ref></item>
+                </xmt:uList><p></p>
+
+            </div>
+
+        </body>
+    </text>
+</TEI>

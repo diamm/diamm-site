@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p9_7_1" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Website Usage and Functions</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change>
+            <change when="2008-05-05" who="Greg Skidmore">Created File</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            
+            <div><head>Website Usage and Functions</head>
+         
+               
+                <div>
+                    <head>I have an account. How do I log in?</head>
+                    <p>To log in, please click on the 'MyDIAMM' tab at the top of the page,
+                        underneath the logo.</p>
+                </div>
+                <div>
+                    <head>How do I see the full-sized images?</head>
+                    <p>You must be logged in to see the full-sized images. If you do not have an
+                        account you can create one within a couple of minutes by completing the
+                        information on the <ref type="db" target="createnewuser.jsp">Register
+                            page</ref>. Account details will be sent to you by e-mail, so you must
+                        have an e-mail account to register, and access to your e-mail as your
+                        password will be sent to that account. Once you are logged in you can use
+                        the search function to find manuscripts that have images available or, if
+                        you know which manuscript you want to view, you can go there using the
+                        Browse menus. Once you reach the source description page you will see a
+                        ‘tab' entitled ‘Images'. Under this tab you will find thumbnails for all
+                        images associated with the manuscript. Clicking on a thumbnail will load the
+                        image viewer with the full-sized image. Note: if you are not logged in the
+                        thumbnails do not become live links: the link only works once you are logged
+                        in. </p>
+                </div>
+
+                <div>
+                    <head>Why can't I see the full-sized images when I click on a thumbnail, even if
+                        I'm logged in?</head>
+                    <p> Make sure you have the correct version of the Flash plugin for your browser.
+                        You can download that <ref type="external"
+                            target="http://www.adobe.com/products/flashplayer/">here.</ref>
+                    </p>
+                </div>
+                <div>
+                    <head>Nothing seems to work right. I keep getting error messages.</head>
+                    <p>Some browsers work better with the website than others. You could try using a
+                        different browser if you are using one that is not very common.</p>
+                    <p>Please also make sure that you are using the most recent version of your
+                        browser.</p>
+                    <p>Internet Explorer for Macintosh is not supported.</p>
+                    <p>The website may be undergoing a technical upgrade or an upload. Try visiting
+                        again later.</p>
+                    <p>If the error persists you should report it to the project manager, but please
+                        include the following information:</p>
+                    <p>
+                        <xmt:uList>
+                            <item>Your operating system</item>
+                            <item>Your browser software, including version number if possible</item>
+                            <item>What you did to cause the error (i.e. which link you clicked on,
+                                or which search you performed).</item>
+                            <item>If possible include the URL of the page</item>
+                            <item>If possible, cut and paste the http error information into your
+                                e-mail.</item>
+                        </xmt:uList><p></p>
+                    </p>
+                    <p>If are having technical trouble, please try to use the <ref type="internal"
+                        cRef="p2_9">Feedback Form.</ref> If this is impossible, please email
+                            <ref type="email" target="diamm@music.ox.ac.uk">the Project
+                            Manager.</ref></p>
+                </div>
+                <div>
+                    <head>How can I let other scholars know that I am working on a particular
+                        manuscript?</head>
+                    <p>You can use the Public Comments tool to indicate to other users the images
+                        that you are working on or that you are interested in. You may include your
+                        contact details in the comment so that people can get in touch with you if
+                        they wish. To foil spam e-mail harvesters we advise that you replace the ‘@'
+                        sign in your e-mail address with ‘[at]'.</p>
+                </div>
+                <div>
+                    <head>How can I contact other scholars who may be working on the same repertory
+                        as me?</head>
+
+                    <p>You can use the Public Comments tool to indicate to other users the images
+                        that you are working on or that you are interested in and ask them to
+                        contact you. You may include your contact details in the comment. To foil
+                        spam e-mail harvesters we advise that you replace the ‘@' sign in your
+                        e-mail address with ‘[at]'.</p>
+                </div>
+                <div>
+                    <head>I want to put my digital collection online and have been looking at your
+                        delivery mechanism. Can I buy the software to create my own collection using
+                        your methods?</head>
+                    <p>The delivery system used for DIAMM was custom-designed for us, and cannot
+                        currently be bought as a software package (although it is all open-source).
+                        It involved several years of technical development and considerable cost.
+                        However you can contact our design and technical team and they will be happy
+                        to discuss your needs and what would be necessary to adapt the DIAMM model
+                        to your needs, since it was built with a transferable end-use in mind. Since
+                        the framework is now designed, other projects would not be faced with the
+                        enormous cost of developing this from scratch, and we welcome interest from
+                        other projects or institutions in using this delivery system with other
+                        collections. Please contact Paul Vetch, our technical consultant at the
+                        Centre for Computing in the Humanities at King's College, London on
+                        paul.vetch[at]kcl.ac.uk</p>
+                </div>
+                <div>
+                    <head>How do I ask DIAMM to take pictures of manuscripts for me or anything
+                        else?</head>
+                    <p>DIAMM offers an extensive array of consulting services for hire by anyone.
+                        Please see our <ref type="internal" cRef="p11">services</ref> section for
+                        more information.</p>
+                </div>
+                <div>
+                    <head>I do not have access to the internet. Will I be able to use the
+                        website?</head>
+                    <p>Probably not. If you can gain access to the internet you will be able to use
+                        the website and, indeed, read this answer.</p>
+                </div>
+            </div>
+           
+        </body>
+    </text>
+</TEI>

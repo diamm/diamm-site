@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p1_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Digital Image Archive of Medieval Music</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2012-02-13" who="Julia Craig-McFeely">Corrected external links</change>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2208-12-02</date><name>Greg Skidmore</name>Changed email address</change>
+            <change><date>2004-07-5</date><name>Arianna Ciula</name>creation of p1_1</change>
+            <change><date>2004-07-5</date><name>Arianna Ciula</name>creation of p1_1</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+ <div>
+
+                <head>Introduction</head>
+                <p><hi rend="bold">DIAMM</hi> has been funded by the <ref
+                        target="http://www.ahrc.ac.uk/" type="external">Arts and Humanities Research
+                    Council</ref> and is currently supported by the <ref
+                        target="http://www.mellon.org//" type="external">Andrew W
+                        Mellon Foundation</ref>. It incorporates work from the Motet database
+                    compiled by Thomas Schmidt-Beste and funded by the <ref
+                        target="http://www.dfg.de/" type="external">Deutsche
+                        Forschungsgemeinschaft</ref>.</p>
+
+              <!-- <p>Read this introduction in <ref type="internal" cRef="p1_1_ger">GERMAN</ref>, <ref
+                    type="internal" cRef="p1_1_ita">ITALIAN</ref>, <ref type="internal"
+                    cRef="p1_1_spa">SPANISH</ref>, <ref type="internal" cRef="p1_1_fre"
+                        >FRENCH</ref> or <ref type="external" cRef="http://webhostinggeeks.com/science/about-introduction-ro"
+                            >ROMANIAN</ref> (with thanks to Alexander Ovsov for his translation)</p>-->
+                <p>From its beginnings in 1998, the purpose of the Digital Image Archive of Medieval
+                    Music (DIAMM) was to obtain and archive digital images of European sources of
+                    medieval polyphonic music, captured directly from the original document. The
+                    purposes were (1) conservation and protection against loss, especially of
+                    vulnerable fragments, and (2) to enable libraries to supply the best possible
+                    quality of images to scholars. High-quality direct digital capture ensures a
+                    level of detail and colour accuracy that is not possible from scans of
+                    surrogates such as slides or glossy photographs. In particular, this type of
+                    imaging is crucial to detailed study. Normal single-shot digital photography
+                    usually captures at a maximum of 7-11 Megapixels. The imaging used by DIAMM
+                    captures at a maximum of 144 Megapixels. This extremely high resolution is
+                    necessary for digital restoration. Where there is damage that makes these
+                    sources difficult to read, detailed restoration of copies of the original images
+                    is possible, to improve legibility and scholarly access.</p>
+                <p>The project started as a collaboration between scholars at the <hi rend="bold"
+                        >University of Oxford</hi> and <hi rend="bold">Royal Holloway</hi>, <hi
+                        rend="bold">University of London</hi>, and is now based in Oxford in
+                    collaboration with the University Music Faculty and the Bodleian Library. DIAMM
+                    has created an electronic archive of more than 14,000 images, to assure their
+                    permanent preservation, and is able to present a significant number of them
+                    through this website to facilitate detailed study of this music and its
+                    sources.</p>
+                <p>The first three phases of work (digital capture and archiving) were funded by the
+                    Humanities Research Board (1998), and by Major Research Grants from the Arts and
+                    Humanities Research Board (1999 and 2001). The current phase of development of
+                    the project website to create an online research environment for the images is
+                    funded by the Andrew W Mellon Foundation.</p>
+                <p>The sources archived include all the currently known fragmentary sources of
+                    polyphony up to 1550 in the UK (almost all of these are available for study
+                    through this website); all the ‘complete' manuscripts in the UK; a small number
+                    of important representative manuscripts from continental Europe; a significant
+                    portion of fragments from 1300-1450 from Belgium, France, Italy, Switzerland and
+                    Spain. Such a collection of images, created under strict protocols to ensure
+                    parity across such a varied collection, has never before been possible, and
+                    represents an extraordinary resource for study of the repertory as a whole.
+                    Although these manuscripts have been widely studied since their gradual
+                    discovery by scholars at various times over the past century, dealing with the
+                    repertory as a whole has been hampered by the very wide geographical spread of
+                    the manuscripts and the limitations of microfilm or older b/w photography.
+                    Fragments are far more numerous than complete sources, but most of them are the
+                    sole remaining representatives of lost manuscripts. Some are barely legible and
+                    hard to place and interpret. They amount to a rich but widely scattered resource
+                    that has been relatively neglected, partly because of difficulty of access,
+                    legibility and comparison of materials that are vulnerable to damage and
+                    loss.</p>
+                <p>The project has always aimed to improve its technical capability in line with
+                    developments in software and hardware. Equipment and software are constantly
+                    upgraded, and working policies are under review at all times to ensure the
+                    highest photographic quality and broadest application of technical advances to
+                    extract information from the images.</p>
+                <p>DIAMM has concentrated in the last five years on developing a carefully tested
+                    image capture and metadata standard. This has been in use for some time, and is
+                    proving extremely robust. In many cases imaging quality and metadata content is
+                    much higher than that delivered by many European institutions. In tandem with
+                    this, the <ref type="internal" cRef="p1_7">licences</ref> written and used by
+                    DIAMM have been used as models for institutions wishing to embark on
+                    digitization.</p>
+                <p>DIAMM now offers its expertise and experience to institutions and individuals
+                    worldwide, enabling scholars to create collections based on their own research
+                    requirements without having to undertake digital photography themselves (see
+                    Services). The project manager and director is currently a consultant to the
+                    National Library of Ireland in their establishment of a program to digitize
+                    their entire holdings, and to the Israeli Antiquities Authority for the
+                    digitization of the Dead Sea Scrolls.</p>
+                <p>Since many of the fragmentary sources are damaged or obscured in some way, DIAMM
+                    has developed restoration and editing techniques that can be applied to the
+                    digital image without any procedure on the original manuscript source, following
+                    digital capture. As a result, a number of new works have been discovered. Leaves
+                    which were considered to contain no music or to be unreadable have been restored
+                    to a state where their contents can be fully transcribed. This is a significant
+                    contribution to scholarship on sources in this period. In addition to
+                    large-scale restorations on full pages, unreadable notes or words on otherwise
+                    readable pages have been improved or revealed by restoration processes, to the
+                    point where new information has been provided about well-known sources.</p>
+                <p>As well as DIAMM's restoration of images, revealing music where it was not
+                    previously legible, visits to and contacts with archives and other institutions
+                    have led to the discovery of a number of new sources. New sources are
+                    continually notified to DIAMM, and photographed for the archive wherever
+                    possible.</p>
+                <p>Controlling MS metadata has included correcting and updating existing catalogue
+                    entries for previously known sources (in particular where shelf marks have
+                    changed), and creating data for new discoveries.</p>
+                <p>The website represents the current development area for DIAMM. Better access,
+                    more scholarly tools, and better-quality images coupled with shorter download
+                    times are among our priorities. The metadata provided online is now no longer
+                    limited to those sources for which we can provide images, but embraces all know
+                    music manuscripts containing polyphony up to 1550. At present, the whole of RISM
+                    Series B IV and the Census Catalogue of Manuscript Sources of Polyphonic Music
+                    1400-1550 are included in the online database.</p>
+                <p>The offline data content is much larger than that seen online. It includes music
+                    incipits and is searchable by text, composer, language, clef, voice-part, number
+                    of parts and many other parameters, all linked to both source descriptions and
+                    individual images. Development of the resource during 2007-2010 will make all
+                    this information available and searchable online.</p>
+                <p>If you have a 'wish-list' of website and manuscript study tools, or notes on
+                    usability of the resource, please <ref type="email"
+                        target="DIAMM@music.ox.ac.uk">contact us by e-mail</ref>. We welcome
+                    corrections to the data and additions to the bibliographies.</p>
+                <strong>Licensing</strong>
+                                <p>The image server uses the Kakadu JPEG2000 library under license.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

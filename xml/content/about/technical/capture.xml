@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p1_4_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image capture</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2008-04-24</date><name>Greg Skidmore</name>Changed text to accommodate for
+                changed caption length.</change>
+            <change><date>2008-02-22</date><name>Greg Skidmore</name>Put images in tables so they
+                would appear side by side. This is an unsatisfactory solution and requires CCH to
+                alter presentation things.</change>
+            <change><date>2006-04-18</date><name>Julia Craig-McFeely</name>Text content
+                update</change>
+            <change><date>2004-10-26</date><name>Julia Craig-McFeely</name>update to camera
+                description and specs</change>
+            <change><date>2004-07-06</date><name>Arianna Ciula</name>creation of p2_6</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Image capture</head>
+                <div>
+                    <head>Acknowledgements</head>
+                    <p> We would like to acknowledge the generous help and support of the following
+                        in supplying us with damaged documents for testing of imaging techniques: </p>
+                    <p>Richard Linenthal, Bernard Quaritch Rare books</p>
+                    <p>Bill Marger, Philadelphia</p>
+                    <p>Pierre Joppen of Paulus Swaen old maps, Florida</p>
+                    <p>Doyle W Flowers Jr, www.hisbooks.net, Atlanta, Georgia</p>
+                </div>
+                <div>
+                    <head>Digitizing primary sources for the DIAMM archive: why build a digital and
+                        not an analogue archive?</head>
+                    <p>The main advantage of a digital image over analogue is the longevity of the
+                        digital medium (although this assumes a well-managed archiving strategy).
+                        Even carefully stored film or glossy pictures will become brittle in 20
+                        years, and is also subject to physical damage that cannot be repaired.
+                        Analogue images cannot be accurately copied or reproduced into multiple
+                        generations without loss of data and degradation or alteration of the
+                        original material.</p>
+                    <p>The fact that a digital image remains unchanged and can be copied precisely
+                        is both an advantage and a disadvantage, as the copyright issues that arise
+                        with exact copying are significantly more pertinent than with analogue
+                        images where copying is never completely exact. Because digital imaging
+                        technology is still relatively in its infancy, we have yet to see whether
+                        our preservation and file migration strategies will indeed leave an image
+                        'unchanged' over time, but the ability to preserve in this way is inherent
+                        to the digital medium.</p>
+                    <p>A second advantage of the Digital image is its ability to reproduce the
+                        original with far more exactitude than the analogue image can. Digital
+                        capture at resolutions employed by DIAMM (144 Megapixels), involves the
+                        acquisition of a far greater quantity of information than analogue. Most of
+                        this information is not visible to the naked eye except under extreme
+                        magnification, but this sort of magnification is possible in the digital
+                        medium. The basic digital image tolerates far more enlargement without
+                        graining than its analogue counterpart would.</p>
+                    <p>Because analogue developing processes require the use of human judgement
+                        equally as much as any technical process to produce the final image, any
+                        close study of colours and ink bleed (for example) would be pointless unless
+                        conducted on the original source. Given the fragility of most of the sources
+                        from the Medieval period, this would be highly undesirable.</p>
+                </div>
+                <div>
+                    <head>Why digitize primary and not secondary sources (surrogates)?</head>
+                    <p>The question of the necessity of scanning from the original source rather
+                        than a surrogate (a slide or photograph) frequently arises: it is certainly
+                        possible to obtain very high-resolution scans of surrogates without having
+                        any recourse to the original. However, a good scan of a photograph or slide,
+                        is still only a scan of a secondary image, and any deficiencies in that
+                        source will only be carried forward into the digital copy. Englargement of
+                        digital scans made from high-quality photographs emphasizes the deficiency
+                        in focus, since conventional photography does not allow the photographer to
+                        view his focussing at very high magnification. Even if the image is in
+                        focus, the grain resolution of the print medium causes degradation in the
+                        image quality when that is in turn scanned and enlarged.</p>
+                    <p>In addition, between the primary source and the surrogate, the potential for
+                        corruption of the original data has been introduced, as a human operator has
+                        had to make decisions about focus and colour reproduction. Scanning from
+                        surrogates allows the introduction of a level of error caused by the
+                        original capture process. Because our ability to perceive colour is often
+                        flawed, and always limited by our ability to perceive the full light
+                        spectrum, every layer of reproduction adds a level at which errors are
+                        introduced. The eye is also incapable of fine focus beyond a certain level,
+                        and it is this further level of definition that is so essential in studying
+                        manuscripts in the digital medium. A scan from a surrogate is only as good
+                        as the surrogate, not the original.</p>
+                    <p>The first image below was scanned from a good colour photograph. The second
+                        image was scanned directly from the original source. Both images have been
+                        enlarged to pixel-for-pixel resolution on screen (i.e. full size).</p>
+
+
+                    <figure>
+                        <graphic url="Scanner.jpg" mimeType="image/jpg" rend="img-left"/>
+                    </figure>
+
+
+
+                    <figure>
+                        <graphic url="Camera.jpg" mimeType="image/jpg" rend="img-left"/>
+                    </figure>
+
+
+
+
+
+                </div>
+                <div>
+                    <head>Colour</head>
+                    <p>When photo labs make a reprint either from a print or from its negative they
+                        are rarely, if ever, able to reproduce the colour of the original print
+                        precisely, because they rely both on human judgement and the use of chemical
+                        processes that are too inaccurately calibrated to be exactly reproduced.</p>
+                    <p>The mechanism by which we perceive colour is still only partially understood,
+                        but one extraordinary ability of the brain, chromatic adaptation, which
+                        enables us to function normally in changing light conditions becomes a
+                        handicap when dealing with precise colour balancing. As an example, if you
+                        put on a pair of dark glasses, the lens will completely change the real
+                        colours reaching your eye. However, a split-second adjustment in the brain
+                        allows us to continue to recognise correctly and understand colours even
+                        through a very heavily tinted filter.</p>
+                    <p>All capture devices from scanners to hand-held cameras require calibration to
+                        determine how the CCD responds to colours. Archival digital scanning work is
+                        done with consistent daylight balanced lighting: this increases the scan
+                        time but ensures a more accurate result. Since the light is continuous
+                        (unlike flash), exact calibration of the capture equipment can ensure a
+                        correct record of the lighting conditions.</p>
+                    <p>Direct digital acquisition from the original source ensures both stability of
+                        the colour balance and the quality of the information, which remains true to
+                        the original because it is not subject to transformation from the analogue
+                        to the digital language. As long as the equipment used to view or print the
+                        image is correctly calibrated, and makes correct use of the embedded profile
+                        of the capture equipment, the user will see correct colour either on-screen
+                        or when the digital image is printed. No post-processing (unsharp masking to
+                        correct poor focus, level adjust to correct exposure, colour adjustment,
+                        de-skewing or other 'tweaking' etc.) should be necessary on a correctly
+                        scanned or photographed image. If any post-processing is required, then the
+                        image has not been properly taken, and the work must be re-done.</p>
+                </div>
+                <div>
+                    <head>Image capture and archival process in DIAMM</head>
+                    <p>DIAMM digital images are captured at very high resolution (usually 600 dpi or
+                        above at real size), the resulting uncompressed TIFF files being in the
+                        region of 200-340 MB in size. These are the archive images which are stored
+                        by Oxford University Computing Services, which uses a Hierarchical File
+                        Server system. This is a resource of the Oxford Humanities Computing
+                        department. A second deposit of the images is held by the HFS of the Arts
+                        and Humanities Data Service (UK). Each image includes an industry-standard
+                        colour patche and a rule showing the original dimensions. DIAMM stores
+                        extensive metadata about each individual image, including the type and
+                        quality of the light source and the equipment used for image capture in
+                        order to anticipate any future needs that may arise with improvements in
+                        technology and software. Capture metadata and Dublin Core information about
+                        the source is held in the TIF header, and also in the project database.
+                        Further detailed metadata describing the manuscript and its contents is
+                        recorded in the database, portions of which may be consulted through this
+                        website. </p>
+                    <p>DIAMM is unique in providing a mobile imaging service with capture protocols
+                        in place that enable us to create digital images of exactly matching quality
+                        and consistency, anywhere in the world, and in virtually any working
+                        conditions. Funding from the AHRB has enabled the project to acquire digital
+                        images of many of the most important medieval music manuscripts in Europe,
+                        as well as the fragments which, because of their limited size, are rarely
+                        visited due to the relatively higher cost of travelling to see a single leaf
+                        as opposed to a 300-page manuscript. The libraries that own these sources
+                        would not have been able to afford to digitize them at this quality
+                        themselves, so the creation of these images has been a major work of
+                        conservation, as well as providing scholars with a set of images which they
+                        can acquire for themselves through each library. The mobile studio is shown
+                        below, set up for work in a darkened room provided by the archive.</p>
+
+                    <figure>
+                        <graphic url="equipment1.jpg" mimeType="image/jpg" rend="img-left"/>
+                    </figure>
+
+                    <p>In cases of extreme (or even minor) damage to sources, copies of these large
+                        images are be used for virtual restoration processes with the permission of
+                        the owner. Since restoration is only done on the images, this is completely
+                        safe for the manuscript, as it is not touched again. If a restoration
+                        process on an image fails or is unsatisfactory, the image is simply
+                        discarded, and the process is redone with a new copy of the original
+                        image.</p>
+                </div>
+                <div>
+                    <head>Camera specifications</head>
+                    <p>Most 'high-street' hand-held digital cameras have a capture resolution of 5-7
+                        megapixels. High-end digital cameras used by professional photographers have
+                        a capture resolution of about 7-11 megapixels which, thanks to massive
+                        recent improvements in print technology, is sufficient to produce a
+                        high-quality printed image at around A3 size. These cameras can capture
+                        images at speeds similar to those of conventional cameras, and are referred
+                        to as 'single-shot' cameras, as they use a rectangular CCD.</p>
+                    <p>DIAMM uses a PhaseOne PowerPhase FX digital scanning back mounted on a custom
+                        built large-format camera with motor-driven focus designed by ICAM Archive
+                        Systems, the company responsible for our camera technical support. The
+                        maximum capture resolution is 144 Megapixels and the dpi obtainable depends
+                        on the size of the original source. Capture times vary but are usually in
+                        the region of 4-6 minutes. This is because a single CCD of 144 megapixels
+                        would be extremely expensive, so a scanning back uses a double row of 24,000
+                        sensors (red-green/green-blue. Green is used twice because this is the most
+                        difficult colour to see and capture), which is mounted on a movable scanning
+                        head. The scanning back works much like a flatbed scanner in the sense that
+                        it takes a set of pictures in position one (which are sent to the computer)
+                        then it moves the capture head and takes another set of pictures in position
+                        2, and so on, all the way to position 12,000. The resulting bits are
+                        stitched together by the capture software, and the end result is a perfect
+                        digital image, which looks just the same as one made by a single-shot camera
+                        or a flatbed scanner.</p>
+                    <p>All images are captured at the highest possible resolution in the hope that
+                        there will be no necessity to revisit the manuscript for photography in the
+                        near future.</p>
+                    <p>Advances in camera technology during 2005 led to two companies, PhaseOne and
+                        Hasselblad, each bringing out a very large-sensor single-shot camera, of
+                        approx 38 Megapixels (cost variable, but around £30,000 at the time of
+                        writing). This would be more than adequate for archive-quality imaging of
+                        smaller-size sources, as long as there is no damage on the original that
+                        requires digital restoration, which would require a higher-resolution image.
+                        It is clear that the emphasis on camera technology now is going to be the
+                        development and marketing of much larger single-shot sensors, and as the
+                        quality and demand goes up, the price will gradually come down. For the
+                        immediate future though, the only way to obtain pictures at 144 Mpx is to
+                        use a scanning back, or a single-shot device which takes a number of
+                        pictures and stitches them together afterwards.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

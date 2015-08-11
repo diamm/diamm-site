@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p1_2"
+	xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acknowledgements</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>King's College London</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Basic Website pdf</p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2012-02-13" who="Julia Craig-McFeely">inserted text pasted from partners.xml, edited list of names</change>
+			<change when="2011-06-02" who="Charlotte Tupman">Created page</change>
+</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>
+				<head>Acknowledgements</head>
+				<div>
+					<head>Academic collaborators</head>
+					<p>We are enormously grateful to a range of individuals who have contributed with great
+					generosity as advisors since the start of the project. In addition to the
+						members of the <ref type="internal" cRef="p1_5">International Advisory
+						Board</ref>, we would also like to thank:</p>
+				<xmt:uList>
+					<item>Giuliano di Bacco, Università di Bologna</item>
+					<item>Giulio Cattin, Università di Padua</item>
+					<item>Tim Crawford, King's College, London</item>
+					<item>Stephen Downey, University of Illinois at Urbana-Champaign</item>
+					<item>Ichiro Fujinaga, McGill University, Canada </item>
+					<item>Martin Kirnbauer, University of Basle</item>
+					<item>Suzanne Lodato, USA</item>
+					<item>Charles Oppenheim, Loughborough University</item>
+					<item>Giovanni Varelli, Italy</item>
+					<item>Agostino Ziino, Università di Roma</item>
+				</xmt:uList>
+					<p/>
+				</div>
+				<div>
+					<head>Academic collaborators</head>
+					<head>Workgroup Participants</head>
+					<p></p>
+					<p>DIAMM would also like to thank the following for their participation in
+						workshops, focus groups and other working groups:</p>
+					<xmt:uList>
+						<item>Tom Brown</item>
+						<item>Arianna Ciula</item>
+						<item>Alastair Dunning</item>
+						<item>Kah-Ming Ng</item>
+						<item>Tod Olson</item>
+						<item>Nikoleta Pappa</item>
+						<item>Jan Rae</item>
+						<item>John Rink</item>
+						<item>Orietta da Rold</item>
+						<item>Paul Rouse</item>
+						<item>Danae Stephanou</item>
+						<item>Simon Tanner</item>
+						<item>Meg Twycross</item>
+						<item>Claire Warwick</item>
+						<item>Sarah Wickham</item>
+						<item>Jane Winters</item>
+					</xmt:uList>
+					<p/>
+				</div>
+			</p>
+		</body>
+	</text>
+</TEI>

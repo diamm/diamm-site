@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p0_3_0"
+	xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>More about the images</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>King's College London</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Text from Julia Craig-McFeely</p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-08-17" who="Charlotte Tupman">Created page</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>The 'Old Hall' Manuscript (GB-London, British Library Add. Ms. 57950)</head>
+				<p>Only four of the 'great' English choirbooks that must originally have numbered in
+					their dozens (if not hundreds) survive today in a relatively intact state: Eton,
+					Lambeth, Gonville and Caius and Old Hall. Old Hall got its name from a former
+					location, St Edmund's College Library, Old Hall Green, nr Ware in Hertforshire.
+					Now preserved in the British Library, the fragility and value of the manuscript
+					means that it is no longer possible for scholars to handle it, so the images on
+					DIAMM are currently the best and only way for members of the public to see the
+					MS without buying the images themselves. It was originally copied c. 1410-20,
+					though much of the music was composed before that. It may at one time have been
+					at Winchester Cathedral, and is a very important source for the music of one of
+					the most famous composers of the medieval period, John Dunstaple, and also
+					contains works ascribed to King Henry. The music is mostly sacred, and is copied
+					in black and red ink. Each piece opens with a beautifully decorated initial. The
+					original book is very large as it was intended to be read from by all the
+					singers at once. The book will be published in facsimile by DIAMM
+					Publications.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,345 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="_a/c/a.css"/>
+<link rel="stylesheet" type="text/css" href="_a/c/s2.css"/>
+
+<script type="text/javascript" src="_a/s/jquery-1.5.min.js"></script>
+
+<script type="text/javascript" src="_a/s/cufon.min.js"></script>
+<script type="text/javascript" src="_a/f/agp.font.js"></script>
+<script type="text/javascript" src="_a/s/c.js"></script>
+
+<!--
+<script type="text/javascript" src="_a/s/jquery-ui-1.8.10.custom.min.js"></script>
+-->
+
+<script type="text/javascript" src="_a/s/jquery.ui.core.js"></script>
+<script type="text/javascript" src="_a/s/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="_a/s/jquery.ui.button.js"></script>
+<script type="text/javascript" src="_a/s/jquery.ui.position.js"></script>
+<script type="text/javascript" src="_a/s/jquery.ui.autocomplete.js"></script>
+
+<!--
+Typekit stuff
+<script type="text/javascript" src="http://use.typekit.com/tae2ufe.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+-->
+
+
+
+	<script type="text/javascript">
+	(function($) {
+		$.widget("ui.combobox", {
+			_create: function() {
+				var self = this;
+				var select = this.element.hide();
+				var input = $("<input>")
+					.insertAfter(select)
+					.autocomplete({
+						source: function(request, response) {
+							var matcher = new RegExp(request.term, "i");
+							response(select.children("option").map(function() {
+								var text = $(this).text();
+								if (!request.term || matcher.test(text))
+									return {
+										id: $(this).val(),
+										label: text.replace(new RegExp("(?![^&;]+;)(?!<[^<>]*)(" + request.term.replace(/([\^\$\(\)\[\]\{\}\*\.\+\?\|\\])/gi, "\\$1") + ")(?![^<>]*>)(?![^&;]+;)", "gi"), "<strong>$1</strong>"),
+										value: text
+									};
+							}));
+						},
+						delay: 0,
+						select: function(e, ui) {
+							if (!ui.item) {
+								// remove invalid value, as it didn't match anything
+								$(this).val("");
+								return false;
+							}
+							$(this).focus();
+							select.val(ui.item.id);
+							self._trigger("selected", null, {
+								item: select.find("[value='" + ui.item.id + "']")
+							});
+							
+						},
+						minLength: 0
+					})
+					.addClass("ui-widget ui-widget-content ui-corner-left");
+					// PV CHANGED OUTPUT STRING
+				$("<button><b>View List</b></button>")
+				.insertAfter(input)
+				.button({
+					text: false
+				}).removeClass("ui-corner-all")
+				// PV CHANGES
+				//.addClass("ui-corner-right ui-button-icon")
+				/*.position({
+					my: "left center",
+					at: "right center",
+					of: input,
+					offset: "-1 0"
+				}).css("top", "")*/
+				.click(function() {
+					// close if already visible
+					if (input.autocomplete("widget").is(":visible")) {
+						input.autocomplete("close");
+						return;
+					}
+					// pass empty string as value to search for, displaying all results
+					input.autocomplete("search", "");
+					input.focus();
+				});
+			}
+		});
+
+	})(jQuery);
+		
+	$(function() {
+		$("select").combobox();
+	});
+	</script>
+
+
+
+</head>
+<body id="t1">
+<div id="gw">
+  <div id="hs">
+    <div id="bs">
+      <h3 title="DIAMM"><a href="/" title="Return to the DIAMM Home Page">DIAMM</a></h3>
+      <h4 title="Digital Image Archive of Medieval Music">Digital Image Archive of Medieval Music</h4>
+      <div class="gx"> </div>
+      <ul class="utl">
+        <li><a href="#">Login</a></li>
+        <li><a href="#">Logout</a></li>
+        <li><a href="#">Register</a></li>
+        <li><a href="#">Paul Vetch's MyDIAMM</a></li>
+      </ul>
+    </div>
+    <div id="ns">
+      <ul class="nvg">
+        <li class="i1"><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Manuscript Database</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Publications</a></li>
+        <li class="ix"><a href="#">Help</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="cs">
+    <div class="c c1" id="searchPane">
+      <div class="g n2">
+        <div class="u u1">
+        <h2>Search</h2>
+          <div class="itl m3">
+            <h3>Search Criteria <a href="#" class="t9 m4" title="Reset">Reset</a></h3>
+            <ul>
+              <li>
+                <label>Filter Value 1</label>
+                <a href="#" class="t9 m3">Remove</a></li>
+              <li>
+                <label>Filter Value 1</label>
+                <a href="#" class="t9 m3">Remove</a></li>
+              <li>
+                <label>Filter Value 1</label>
+                <a href="#" class="t9 m3">Remove</a></li>
+            </ul>
+          </div>
+          <ul class="nvh">
+            <li>
+              <h3>Facet Label <a href="#" class="t9 m0 s7" title="Collapse this Facet">Collapse</a></h3>
+              <ul>
+                <li><a href="#" class="t9 m0 s6" title="Expand this item">Expand</a>
+                  <label><a href="#">Selectable Facet Value 1</a></label>
+                  <dfn title="123 matches">123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a></li>
+                <li><a href="#" class="t9 m0 s7" title="Collapse this item">Collapse</a>
+                  <label><a href="#">Selectable Facet Value 2</a></label>
+                  <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a>
+                  <ul>
+                    <li><a href="#" class="t9 m0 s6" title="Expand this item">Expand</a>
+                      <label><a href="#">Selectable Sub Facet Value 1</a></label>
+                      <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a></li>
+                    <li><a href="#" class="t9 m0 s6" title="Expand this item">Expand</a>
+                      <label><a href="#">Selectable Sub Facet Value 1</a></label>
+                      <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a>
+                      <ul>
+                        <li>
+                          <label><a href="#">Selectable Sub Sub Facet Value 1</a></label>
+                          <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a></li>
+                        <li>
+                          <label><a href="#">Selectable Sub Sub Facet Value 1</a></label>
+                          <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li><a href="#" class="t9 m0 s6" title="Expand this item">Expand</a>
+                  <label><a href="#">Selectable Facet Value 3</a></label>
+                  <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a></li>
+              </ul>
+            </li>
+            <li>
+              <h3>Facet Label <a href="#" class="t9 m0 s7" title="Collapse this Facet">Collapse</a></h3>
+              <form class="fms">
+                  <fieldset class="m0">
+                  <label for="composerFacet">Start typing...</label>
+                  <input id="composerFacet" type="text" />
+                  <button type="submit"><b class="t9 m5">Search</b></button>
+                </fieldset>
+                <fieldset class="m1">
+                  <ul>
+                  <li><label for="value1">Starts With</label><input type="radio" name="textParams" id="value1" value="" /></li>
+                  <li><label for="value2">Blah</label><input type="radio" name="textParams" id="value2" value="" /></li>
+                  <li><label for="value3">Contains</label><input type="radio" name="textParams" id="value3" value="" /></li>
+                  </ul>
+                  </fieldset>
+              </form>
+            </li>
+            <li>
+              <h3>Facet Label <a href="#" class="t9 m0 s7" title="Collapse this Facet">Collapse</a></h3>
+              <form class="fms">
+                <fieldset class="m0">
+                  <label for="composerFacet">Start typing...</label>
+                  <input id="composerFacet" type="text" />
+                  <button type="submit"><b class="t9 m5">Search</b></button>
+                </fieldset>
+              </form>
+              <ul class="nvz">
+                <li class="s1">A</li>
+                <li><a href="casework/reports/a-z/b.html" target="_self" >B</a></li>
+                <li><a href="casework/reports/a-z/c.html" target="_self" >C</a></li>
+                <li><a href="casework/reports/a-z/d.html" target="_self" >D</a></li>
+                <li><a href="casework/reports/a-z/e.html" target="_self" >E</a></li>
+                <li><a href="casework/reports/a-z/f.html" target="_self" >F</a></li>
+                <li><a href="casework/reports/a-z/g.html" target="_self" >G</a></li>
+                <li><a href="casework/reports/a-z/h.html" target="_self" >H</a></li>
+                <li><a href="casework/reports/a-z/i.html" target="_self" >I</a></li>
+                <li><a href="casework/reports/a-z/j.html" target="_self" >J</a></li>
+                <li class="s5">K</li>
+                <li><a href="casework/reports/a-z/l.html" target="_self" >L</a></li>
+                <li><a href="casework/reports/a-z/m.html" target="_self" >M</a></li>
+                <li><a href="casework/reports/a-z/n.html" target="_self" >N</a></li>
+                <li class="s5">O</li>
+                <li><a href="casework/reports/a-z/p.html" target="_self" >P</a></li>
+                <li class="s5">Q</li>
+                <li><a href="casework/reports/a-z/r.html" target="_self" >R</a></li>
+                <li><a href="casework/reports/a-z/s.html" target="_self" >S</a></li>
+                <li><a href="casework/reports/a-z/t.html" target="_self" >T</a></li>
+                <li><a href="casework/reports/a-z/u.html" target="_self" >U</a></li>
+                <li class="s5">V</li>
+                <li><a href="casework/reports/a-z/w.html" target="_self" >W</a></li>
+                <li class="s5">X</li>
+                <li class="s5">Y</li>
+                <li class="s5">Z</li>
+                <li class="s5">0-9</li>
+              </ul>
+              <ul>
+                <li>
+                  <label><a href="#">Facet Value 1</a></label>
+                  <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a></li>
+                <li>
+                  <label><a href="#">Facet Value 2</a></label>
+                  <dfn>123</dfn> <a href="#" class="t9 m1">View Record</a> <a href="#" class="t9 m2">Add to a Collection</a></li>
+              </ul>
+            </li>
+            <li>
+              <h3>Facet Label <a href="#" class="t9 m0 s7" title="Collapse this Facet">Collapse</a></h3>
+            
+            
+	<select>
+		<option value="a">asp</option>
+        <option value="c">c</option>
+        <option value="cpp">c++</option>
+        <option value="cf">coldfusion</option>
+        <option value="g">groovy</option>
+        <option value="h">haskell</option>
+        <option value="j">java</option>
+        <option value="js">javascript</option>
+        <option value="p1">perl</option>
+        <option value="p2">php</option>
+        <option value="p3">python</option>
+        <option value="r">ruby</option>
+        <option value="s">scala</option>
+	</select>
+          
+              
+              </li>
+            <li>
+              <h3>Facet Label <a href="#" class="t9 m0 s6" title="Expand this Facet">Expand</a></h3>
+            </li>
+
+          </ul>
+        </div>
+        <div class="u u2"> 
+        <h2><strong>123</strong> Matching Records</h2>
+
+            <ul class="utl">
+              <li><label>Display:</label> <a href="#">10</a> - <b class="s1">20</b> - <a href="#">40</a> records at a time</li>
+              <li><label>Include:</label> <b class="s1">All items</b> - <a href="#">Items with Images</a></li>
+              <li><label>Group by:</label> <select><option>Source</option></select></li>
+            </ul>
+    
+        <dl>
+        <dt>Name of the source</dt>
+        <dd>Item within the source with a longer title that falls over a couple of lines <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dt>Name of the source</dt>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        <dd>Item within the source <a href="#" class="t9 m1">View Record</a></dd>
+        </dl>
+        
+                    <div class="itp">
+                    <h3>Page <strong>1</strong> of <strong>7</strong></h3>
+              <ul>
+                <li class="s5">&#8249;&#8249;</li>
+                <li class="s5">&#8249;</li>
+                <li class="s1">1</li>
+                <li><a href="1" target="_self" >2</a></li>
+                <li><a href="2" target="_self" >3</a></li>
+                <li class="s4"><a href="4" target="_self" >...</a>
+                <ul>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">34</a></li>
+                <li><a href="#">34</a></li>
+                <li><a href="#">34</a></li>
+                <li><a href="#">34</a></li>
+                <li><a href="#">34</a></li>
+                <li><a href="#">34</a></li>
+                <li><a href="#">34</a></li>
+                <li><a href="#">34</a></li>
+                </ul>
+                </li>
+                <li><a href="7" target="_self" >8</a></li>
+                <li><a href="8" target="_self" >9</a></li>
+                <li><a href="9" target="_self" >10</a></li>
+                <li><a href="1" target="_self" >&#8250;</a></li>
+                <li><a href="10" target="_self">&#8250;&#8250;</a></li>
+              </ul>
+            </div>
+        </div>
+      </div>
+      <div class="c c2" id="dataPane"> Data </div>
+    </div>
+  </div>
+  <div id="fs"> </div>
+</div>
+</body>
+</html>

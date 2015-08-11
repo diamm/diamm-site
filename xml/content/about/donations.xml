@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p1_6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Image Archive of Medieval Music</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2012-02-13" who="Julia Craig-McFeely">Corrected heading and edited content text</change>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <head>Donate to DIAMM</head>
+                <p>DIAMM is under constant pressure to find funding to maintain our online presence. We are dedicated to keeping
+                    this resource free to all users but we have no public or private funding to allow us to do this.
+                    If you value you this resource and would like to help keep it free, or if you would like to help us find money to digitize important manuscripts and put them online here, we would
+                    like to invite you to donate any amount of money to DIAMM to help us achieve
+                    this goal.</p>
+                <p>Funds will be used to continue building the collection of images; maintain the
+                    web resource so that it contines to function; provide management time to continue to add new metadata to
+                    the database; and to make images available to scholars and students.</p>
+                <p>DIAMM has an <ref type="external"
+                        target="http://tinyurl.com/DIAMMpubs">online shop</ref>. At the bottom of
+                    the page is an option for you to donate to the project using your credit card.
+                    Please consider supporting the work we do in this way.</p>
+                <!--<table>
+                    <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                            <ref type="external" target="http://tinyurl.com/DIAMMpubs"><figure>
+                                    <graphic url="donate-button"/>
+                                </figure></ref>
+                        </cell>
+                    </row>
+
+                </table>-->
+                <!-- Please insert PayPal code here, preferrably centred. Thank you! -->
+            </div>
+        </body>
+    </text>
+</TEI>

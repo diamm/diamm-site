@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p2"
+    xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DIAMM Publications</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-03-16" who="Charlotte Tupman">Added links to individual
+                publications</change>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+
+
+            <head>DIAMM Publications</head>
+            <div>
+                <head>Buy DIAMM Publications online</head>
+                <p>DIAMM's publications are now available to purchase on the internet. Please click <ref
+                        type="external" target="http://tinyurl.com/DIAMMpubs">here</ref> to go
+                    to DIAMM's online shop.</p>
+            </div>
+            <div>
+                <xmt:uList>
+                    <item><ref type="internal" cRef="p2_6">William Byrd, Masses for 3, 4, and 5 voices</ref></item>
+                    <item><ref type="internal" cRef="p2_4">The Eton Choirbook</ref></item>
+                    <item><ref type="internal" cRef="p2_3">The Dow Partbooks</ref></item>
+                    <item><ref type="internal" cRef="p2_2">Bologna Q15: The Making and Remaking of a
+                            Musical Manuscript</ref></item>
+                    <item><ref type="internal" cRef="p2_5">DIAMM Digital Restoration
+                    Workbook</ref></item>
+                </xmt:uList>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

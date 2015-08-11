@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Online Music Editions</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <head>Online Music Editions</head>
+                <p>DIAMM is pleased to be able to offer online the <ref type="internal"
+                        cRef="p13_30">new Du Fay Opera Omnia, edited by Alejandro Planchart.</ref>
+                    It is being published here as it arrives, so check back to see if there is more
+                    music available.</p>
+                <p>It will be joined by editions of other composers' works as in due course.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

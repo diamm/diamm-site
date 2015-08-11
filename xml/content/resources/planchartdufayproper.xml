@@ -1,0 +1,22 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_30_4">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Du Fay Opera Omnia (Planchart) - Section 4: Proper Mass Cycles</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2011-06-01</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+            <head/>
+            <p>This section is in preparation. Please check back here soon.</p>
+            <p>Alternatively, you can <ref type="external" target="http://www.twitter.com/diammpub">follow us on Twitter</ref>, or <ref type="external" target="http://www.facebook.com/group.php?gid=172817981125">join our group on
+                    Facebook</ref> to get all the latest DIAMM news, including information on when
+                this section will come online.</p>
+           
+        </body>
+    </text>
+</TEI>

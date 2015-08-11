@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p9_7"
+    xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FAQ</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change when="2008-05-05" who="Greg Skidmore">Created File</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>FAQ</head>
+                <!-- <div part="N" sample="complete" org="uniform">
+                <head>General use</head>-->
+                <div>
+                    <p> This FAQ list was compiled on the basis of questions sent to the DIAMM team
+                        since 1998. </p>
+                </div>
+                <div>
+                    <head>Website Usage and Functions</head>
+                    <div>
+                        <head>I have an account. How do I log in?</head>
+                        <p>To log in, please click on the 'MyDIAMM' tab at the top of the page,
+                            underneath the logo.</p>
+                    </div>
+                    <div>
+                        <head>How do I see the full-sized images?</head>
+                        <p>You must be logged in to see the full-sized images. If you do not have an
+                            account you can create one within a couple of minutes by completing the
+                            information on the <ref type="db" target="createnewuser.jsp">Register
+                                page</ref>. Account details will be sent to you by e-mail, so you
+                            must have an e-mail account to register, and access to your e-mail as
+                            your password will be sent to that account. Once you are logged in you
+                            can use the search function to find manuscripts that have images
+                            available or, if you know which manuscript you want to view, you can go
+                            there using the Browse menus. Once you reach the source description page
+                            you will see a ‘tab' entitled ‘Images'. Under this tab you will find
+                            thumbnails for all images associated with the manuscript. Clicking on a
+                            thumbnail will load the image viewer with the full-sized image. Note: if
+                            you are not logged in the thumbnails do not become live links: the link
+                            only works once you are logged in. </p>
+                    </div>
+
+                    <div>
+                        <head>Why can't I see the full-sized images when I click on a thumbnail,
+                            even if I'm logged in?</head>
+                        <p> Make sure you have the correct version of the Flash plugin for your
+                            browser. You can download that <ref type="external"
+                                target="http://www.adobe.com/products/flashplayer/">here.</ref>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Nothing seems to work right. I keep getting error messages.</head>
+                        <p>Some browsers work better with the website than others. You could try
+                            using a different browser if you are using one that is not very
+                            common.</p>
+                        <p>Please also make sure that you are using the most recent version of your
+                            browser.</p>
+                        <p>Internet Explorer for Macintosh is not supported.</p>
+                        <p>The website may be undergoing a technical upgrade or an upload. Try
+                            visiting again later.</p>
+                        <p>If the error persists you should report it to the project manager, but
+                            please include the following information:</p>
+                        <p>
+                            <xmt:uList>
+                                <item>Your operating system</item>
+                                <item>Your browser software, including version number if
+                                    possible</item>
+                                <item>What you did to cause the error (i.e. which link you clicked
+                                    on, or which search you performed).</item>
+                                <item>If possible include the URL of the page</item>
+                                <item>If possible, cut and paste the http error information into
+                                    your e-mail.</item>
+                            </xmt:uList><p/>
+                        </p>
+                        <p>If are having technical trouble, please try to use the <ref
+                                type="internal" cRef="p2_9">Feedback Form.</ref> If this is
+                            impossible, please email <ref type="email" target="diamm@music.ox.ac.uk"
+                                >the Project Manager.</ref></p>
+                    </div>
+                    <div>
+                        <head>How can I let other scholars know that I am working on a particular
+                            manuscript?</head>
+                        <p>You can use the Public Comments tool to indicate to other users the
+                            images that you are working on or that you are interested in. You may
+                            include your contact details in the comment so that people can get in
+                            touch with you if they wish. To foil spam e-mail harvesters we advise
+                            that you replace the ‘@' sign in your e-mail address with ‘[at]'.</p>
+                    </div>
+                    <div>
+                        <head>How can I contact other scholars who may be working on the same
+                            repertory as me?</head>
+
+                        <p>You can use the Public Comments tool to indicate to other users the
+                            images that you are working on or that you are interested in and ask
+                            them to contact you. You may include your contact details in the
+                            comment. To foil spam e-mail harvesters we advise that you replace the
+                            ‘@' sign in your e-mail address with ‘[at]'.</p>
+                    </div>
+                    <div>
+                        <head>I want to put my digital collection online and have been looking at
+                            your delivery mechanism. Can I buy the software to create my own
+                            collection using your methods?</head>
+                        <p>The delivery system used for DIAMM was custom-designed for us, and cannot
+                            currently be bought as a software package (although it is all
+                            open-source). It involved several years of technical development and
+                            considerable cost. However you can contact our design and technical team
+                            and they will be happy to discuss your needs and what would be necessary
+                            to adapt the DIAMM model to your needs, since it was built with a
+                            transferable end-use in mind. Since the framework is now designed, other
+                            projects would not be faced with the enormous cost of developing this
+                            from scratch, and we welcome interest from other projects or
+                            institutions in using this delivery system with other collections.
+                            Please contact Paul Vetch, our technical consultant at the Centre for
+                            Computing in the Humanities at King's College, London on
+                            paul.vetch[at]kcl.ac.uk</p>
+                    </div>
+                    <div>
+                        <head>How do I ask DIAMM to take pictures of manuscripts for me or anything
+                            else?</head>
+                        <p>DIAMM offers an extensive array of consulting services for hire by
+                            anyone. Please see our <ref type="internal" cRef="p11">services</ref>
+                            section for more information.</p>
+                    </div>
+                    <div>
+                        <head>I do not have access to the internet. Will I be able to use the
+                            website?</head>
+                        <p>Probably not. If you can gain access to the internet you will be able to
+                            use the website and, indeed, read this answer.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>Registration and Your MyDIAMM account</head>
+                    <div>
+                        <head>Do I have to be employed in a University to register?</head>
+                        <p>No, anyone can register to use the site and view the images.</p>
+                    </div>
+                    <div>
+                        <head>Is it possible for my institution to obtain an institutional IP
+                            address to register anyone within our IP range for use of the
+                            website?</head>
+                        <p>Use of the features associated with image browsing is dependent on
+                            individual login. Users cannot create a personalised workspace unless
+                            they have a personal login. Since creating a user account is so quick,
+                            this should not be a problem for the members of your institution.</p>
+                        <p>One advantage of individual user accounts is to ensure that anyone
+                            entering spurious material in the public comments or transcriptions
+                            fields is identified. This helps to avoid spam, pornography and other
+                            undesirable material from appearing on the website.</p>
+                    </div>
+                    <div>
+                        <head>I'm not affiliated with any institution: can I still register to use
+                            the website?</head>
+                        <p>Anyone can register to use the site and view the images. You do not have
+                            to be an academic, employed, or a musician to use and appreciate the
+                            content.</p>
+                    </div>
+                    <div>
+                        <head>I am not a musician or a medievalist, can I register to use the
+                            website?</head>
+                        <p>Anyone can register to use the site and view the images. You do not have
+                            to be an academic, employed, or a musician to use and appreciate the
+                            content.</p>
+                    </div>
+
+
+                </div>
+                <div>
+                    <head>The Information in the Archive</head>
+                    <div>
+                        <head>I can't find the manuscript I'm looking for, even though I know it is
+                            in the relevant library, archive, private collection.</head>
+                        <p>Assuming there is no error in your information about the library, or that
+                            the shelf mark has not been changed, the most common reason for this is
+                            that the manuscript falls outside the date or musical parameters that
+                            define this project:</p>
+                        <p>
+                            <xmt:uList>
+                                <item>We do not list any plainchant manuscripts: DIAMM contains (at
+                                    present) only sources of polyphonic music. </item>
+                                <item>The manuscript you are looking for may fall outside the dates
+                                    of the project. At the moment, although there is some
+                                    flexibility, we cut off at about 1550.</item>
+                                <item>It may be possible that you are actually looking for a printed
+                                    book, not a manuscript. One of the reasons for the 1550 cutoff
+                                    date is that from 1500 onwards music was increasingly reproduced
+                                    in print, and multiple copies of these types of book survive,
+                                    making them easier to access in person.</item>
+                            </xmt:uList><p/>
+                        </p>
+                        <p>The final reason why a manuscript may not be listed is that we do not
+                            know about it. If you think the manuscript in question is one that we
+                            should list as it contains polyphony and falls within the remit of the
+                            project, then please contact us and let us know about the book so that
+                            we can add it to the database. Your contribution in bringing it to our
+                            notice will be publicly acknowledged.</p>
+                    </div>
+                    <div>
+                        <head>I want to find all the works of a particular composer: how do I do
+                            this?</head>
+                        <p>Unfortunately we don't have inventories that would allow you to do this
+                            yet, but these should be brought online during 2010-2011. If a
+                            manuscript is listed in the Census Catalogue (CCM) this lists the names
+                            of composers represented in the manuscript. This information is stored
+                            in the Source Description field, and you may be able to find most of the
+                            relevant manuscripts by entering the name of the composer you wish to
+                            find in the Source Description free text field on the Search page.</p>
+                    </div>
+                    <div>
+                        <head>How do I find out which pages in a manuscript have the pieces that I
+                            want?</head>
+                        <p>Unfortunately we don't have inventories yet, but these should be brought
+                            online during 2010-2011. You could look through the RISM pages until you
+                            get to the inventory section IF the MS is listed in RISM. Unfortunately
+                            if it's only listed in CCM you're not likely to find what you want yet,
+                            but we're working on it. Sometimes the prose description lists specific
+                            composers or pieces along with folio numbers, so check that too.</p>
+                    </div>
+                    <div>
+                        <head>What does [pr. bk.] mean, preceding some shelf marks?</head>
+                        <p>Printed book. This is usually a book of printed music with additions by
+                            hand. Sometimes there is no music in the book except those items added
+                            by hand.</p>
+                    </div>
+                    <div>
+                        <head>Why are there no pictures available for the manuscript that I'm
+                            interested in?</head>
+                        <p>We haven't photographed it yet (or had it photographed for us).</p>
+                        <p>DIAMM lists all the known manuscripts of Medieval Music in the world.
+                            There are over 3100 manuscripts in the database so far and this number
+                            grows constantly. We only have pictures for some of these sources; since
+                            starting in 1998 we have only had the finances available to negotiate
+                            rights and travel to photograph documents for about 6 months in total.
+                            The images we have represent this work, which was spread over about 5
+                            years. We concentrated first on obtaining pictures of fragments, since
+                            these are sources that are most neglected. Most individuals would not
+                            consider it cost-effective to visit a library just to see one leaf of
+                            music, whereas to travel in order to see a whole manuscript is more
+                            worthwhile.</p>
+                        <p>Having photographed the fragments on our primary list we added some of
+                            the more important complete manuscripts, and have obtained as many
+                            further items as possible within the limitations of our funding.</p>
+                        <p>There are a small number of important sources that have been photographed
+                            by DIAMM, but for which we were unable at the time to obtain the
+                            additional permission needed to make these images available on the
+                            website. We are currently negotiating with these libraries to extend the
+                            permission to allow web-delivery, and these images will be brought
+                            online as soon as possible.</p>
+                        <p>If you have a request for a particular manuscript, please let the project
+                            manager or research assistant know, and we will put this on our priority
+                            list if funding for further digitization becomes available. You could
+                            also subscribe to our RSS news page, which will inform you when any new
+                            material is added to the online collection. You may be able to obtain a
+                            grant to have digital images made by a library, or to have DIAMM travel
+                            to the library and make them for you. If you are considering this course
+                            please contact DIAMM <hi rend="bold">before</hi> ordering the images for
+                            advice on how to ensure you get images of suitable quality, or visit our
+                                <ref type="internal" cRef="p11">Services page</ref> for information
+                            on preparing a grant application in conjunction with DIAMM.</p>
+                    </div>
+                    <div>
+                        <head>Are there plans to digitize the manuscripts that are not included in
+                            the collection yet?</head>
+                        <p>Yes, but digitization work is costly, and DIAMM does not have a regular
+                            income that can pay for this activity. We are currently without funding
+                            to create new digital images, but through various collaborations with
+                            institutions and with individual scholars we are making grant
+                            applications to obtain digital images of specific collections that will
+                            then be made available through the site.</p>
+                        <p>If you have a request for a particular manuscript, please let the project
+                            manager or research assistant know, and we will put this on our priority
+                            list if funding for further digitization becomes available. You could
+                            also subscribe to our RSS news page, which will inform you when any new
+                            material is added to the online collection. You may be able to obtain a
+                            grant to have digital images made by a library, or to have DIAMM travel
+                            to the library and make them for you. If you are considering this course
+                            please contact DIAMM <hi rend="bold">before</hi> ordering the images for
+                            advice on how to ensure you get images of suitable quality, or visit our
+                                <ref type="internal" cRef="p11">Services page</ref> for information
+                            on preparing a grant application in conjunction with DIAMM.</p>
+                    </div>
+                    <div>
+                        <head>I have digital images of a manuscript that you do not have: can I
+                            donate them to the online collection?</head>
+                        <p>If you own the rights in the images we would be very grateful to receive
+                            them to add to our online collection if they are of suitable quality for
+                            online presentation. If you are not the owner of the document you, or
+                            DIAMM, would need to check that there would be no rights issues raised
+                            by donating them to DIAMM. Please contact the Project Manager for
+                            further details.</p>
+                    </div>
+                    <div>
+                        <head>I am a collection holder and would like to have my manuscripts
+                            photographed by DIAMM. How can I arrange this?</head>
+                        <p>DIAMM is available for digitization work on a consultancy basis. You can
+                            find details of our consultancy availability on <ref type="internal"
+                                cRef="p11">this page.</ref> DIAMM is available to digitize, or
+                            advise on the digitization of any document collection; it does not have
+                            to be medieval, manuscript or music.</p>
+                    </div>
+                    <div>
+                        <head>I have done research on a manuscript but it is not published. However,
+                            the information I have is more up-to-date than that on the DIAMM
+                            website. What should I do?</head>
+                        <p>Assuming you are willing to share your information, we would be very
+                            grateful to receive a copy of any work you have done on any manuscript
+                            source. The information will be added to the website with full credit
+                            given to the author. Since this material is thus ‘published' online it
+                            will count as a research output for you. If you subsequently publish the
+                            material elsewhere you should inform the publisher in advance that it
+                            already appears in some form on the DIAMM website.</p>
+
+                    </div>
+                    <div>
+                        <head>Does DIAMM only digitize music, or only medieval manuscripts?</head>
+                        <p>DIAMM will digitize just about anything (as long as it is not illegal,
+                            pornographic, copyright or for any other nefarious purpose). We prefer
+                            our objects to be flat (books, pictures, maps etc.), but apart from that
+                            we are able to digitize most items and most types of collection. If we
+                            feel our approach is not suitable for your collection we will pass you
+                            on to other experts in the appropriate fields. For more information
+                            about hiring DIAMM to undertake digitization work for you, please see
+                            the <ref type="internal" cRef="p11">Services page.</ref>
+                        </p>
+                    </div>
+                    <div>
+                        <head>The music looks very different from the music I usually play/sing. How
+                            can I learn how to understand this notation?</head>
+                        <p>There are two books that describe how Medieval Music notation works:
+                            Apel, Willi: <hi rend="bold">The Notation of Polyphonic Music
+                                900-1600</hi> (Cambridge, Massachusetts, 1942. (4th ed., 1949)) –
+                            this may not be in print, but is available from most libraries that have
+                            a (classical) music section. Rastall, Richard: <hi rend="bold">The
+                                Notation of Western Music: an introduction</hi> (St Martin's Press,
+                            New York, 1982)</p>
+                        <p>If you are looking for a historical introduction to Medieval Music the
+                            following is recommended: Hoppin, Richard H: <hi rend="bold">Medieval
+                                Music</hi> (New York: W. W. Norton, 1978)</p>
+                    </div>
+
+                    <div>
+                        <head>I'm interested in researching my family history. Where can I find out
+                            about them?</head>
+                        <p>DIAMM contains no information about family history. This is a resource
+                            for studying Medieval Music Manuscripts. By searching you may find a
+                            name or names that seem relevant to you, but there is no genealogical
+                            information created from these names.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>Copyright and permission for use</head>
+                    <div>
+                        <head>Why can't I download the images?</head>
+                        <p>DIAMM delivers images via a complex web-delivery system. The images are
+                            not owned by DIAMM, but are available online through us thanks to rights
+                            agreements with the owning institutions, and this rights agreement
+                            prohibits the free download of images. DIAMM does not have permission to
+                            sell or give away any of these images, since we are not the copyright
+                            holder. More details about this can be found on the <ref type="internal"
+                                cRef="p2_3">Rights Protection page.</ref> If you wish to obtain
+                            personal copies of images that you have seen on the DIAMM website you
+                            need to contact the library that owns them. Clicking on the library name
+                            in any view will take you to the library contact details.</p>
+                    </div>
+                    <div>
+                        <head>I want to show pictures from the website in a lecture/presentation.
+                            Will I be infringing copyright or breaching my access agreement?</head>
+                        <p>The Website Access Agreement is clear that the images may only be used
+                            for research or non-commercial reasons. Since teaching falls under this
+                            category you may show any page from the DIAMM website either as a
+                            screenshot or live during a lecture.</p>
+                    </div>
+                    <div>
+                        <head>I want to publish an article using images from the DIAMM website. How
+                            can I get permission?</head>
+                        <p>If you wish to obtain print-quality copies of images that you have seen
+                            on the DIAMM website you need to contact the library that owns them to
+                            obtain permission. For publications you (or your publisher) may have to
+                            pay a reproduction rights fee, although this is usually waived for
+                            academic (i.e. non-profit) publications. Clicking on the library name in
+                            any view will take you to the library contact details. Make sure that
+                            you give the accurate information about which image(s) you require as it
+                            is extremely frustrating for libraries if they are simply given the name
+                            of a piece. You must supply the correct, complete shelf-mark for the
+                            manuscript, and the exact folio number(s) of the images you require:
+                            this is found in the text displayed beneath the images.</p>
+                    </div>
+                    <div>
+                        <head>I want to get copies of the original images that I have seen on the
+                            website. How can I get them?</head>
+                        <p>If you wish to obtain copies of images that you have seen on the DIAMM
+                            website you need to contact the library that owns them to obtain
+                            permission. You will need to specify the size/quality of the image you
+                            want. Remember that web-sized images are unsuitable for printing. If you
+                            ask for the full-sized images you will need image-processing software
+                            such as Photoshop or PaintShop Pro to open them. Clicking on the library
+                            name in any view will take you to the library contact details. Make sure
+                            that you give the accurate information about which image(s) you require
+                            as it is extremely frustrating for libraries if they are simply given
+                            the name of a piece. You must supply the correct, complete shelf-mark
+                            for the manuscript, and the exact folio number(s) of the images you
+                            require: this is found in the text displayed beneath the images.</p>
+                    </div>
+                    <div>
+                        <head>I am a collection holder and would like to have my digital images
+                            included in the DIAMM collection. Will I have to pay to have them
+                            included?</head>
+                        <p>There is no currently charge for adding your images of music manuscripts
+                            to the DIAMM collection. Our delivery mechanism was built to handle as
+                            many images as we can put into it, and the success of the site is
+                            largely dependent on its content. We are therefore more than happy to
+                            include digital images from other collections, provided there is no
+                            copyright issue.</p>
+                        <p>If your collection is of non-musical items we may also be able to deliver
+                            the images. For a small number of images there would be no charge, but
+                            for collections of significant size we may need to acquire more server
+                            space, and that additional cost would have to be met by the depositor.
+                            Please contact us if you would like more information about this
+                            service.</p>
+                    </div>
+
+
+                    <!-- OLD CATEGORISATION IS BELOW
+                    
+                    
+            <div part="N" sample="complete" org="uniform">
+                <head>Technical questions</head>-->
+
+                    <!-- </div>
+            <div part="N" sample="complete" org="uniform">
+                <head>Rights</head>-->
+
+                    <!--     </div>
+            <div part="N" sample="complete" org="uniform">
+                <head>For scholars and libraries</head>-->
+
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

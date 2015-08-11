@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p11_1" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Services</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher></publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2008-10-09</date><name>Greg Skidmore</name>Added page</change><change><date>2008-02-22</date><name>Greg Skidmore</name>Finalised content</change><change><date>2008-02-18</date><name>Greg Skidmore</name>Created first version of content</change><change><date>2008-01-24</date><name>AC</name>created doc</change></revisionDesc></teiHeader>
+    <text>
+        <body>
+            <head>Imaging by DIAMM</head>
+            
+            <div>
+                <head>Imaging by DIAMM</head>
+                <p>DIAMM has specialised in the digitization of rare and/or delicate documents,
+                    either bound or unbound. Our original remit was to digitize fragments of
+                    medieval music, and has extended to embrace complete manuscripts which are
+                    usually in better condition, but which present their own handling and
+                    conservation problems. Our photographers have long experience in handling
+                    delicate manuscripts and objects during their doctoral work, and since that time
+                    in handling manuscripts during photography.</p>
+                <p>Imaging priorities concentrate on obtaining the best possible picture without
+                    harm to the source, or stress to its binding. DIAMM does not use flash, and only
+                    uses 'remote' lighting (at a distance of over 1 metre) which does not generate
+                    heat, and is carefully engineered to exclude ultra-violet content, while
+                    emulating the colour spectrum of daylight (it is therefore less harmful than
+                    daylight). Our intention is that once imaging of a document has been completed
+                    by DIAMM, it should not be necessary to repeat digitization work again, thus
+                    digitization – as long as it is done to appropriate quality standards – fulfils
+                    a conservation purpose.</p>
+                <p>DIAMM does not have a studio, but normally works on site with the documents and
+                    their owners. In exceptional cases costs can be minimized by bringing the
+                    document(s) to Oxford for imaging work. We reserve the right to refuse to handle
+                    documents in order to obtain a particular image, in a way that we consider may
+                    shorten the life of the document, or damage it in any way.</p>
+                <p>There are two imaging processes available, and deciding which one is suitable for
+                    your source will depend on evaluation of your intended use of the images, and
+                    the size and condition of the source.</p>
+                <div>
+                    <head>PhaseOne PowerPhase FX</head>
+                    <p>Because of the cost of single-shot digital sensors, the highest-quality of
+                        digital imaging (i.e. obtaining the greatest number of pixels over the
+                        largest area) is done by using a scanning back. This has a double row of
+                        sensors, and the equipment acquires an image by taking multiple rows of
+                        pictures, in the same way as a flatbed scanner works. A single picture may
+                        take as long as 5-6 minutes to acquire.</p>
+                    <p>However, a major difference between a scanning back and a flatbed scanner is
+                        that a scanning back is mounted on the back of a custom-built large-format
+                        camera body, and never touches the manuscript, nor does it have a bright
+                        light which is shone directly on the manuscript.</p>
+                    <p>This equipment is able to yield images of approximately 132 megapixels (for
+                        comparison, high-end consumer cameras now capture at around 8-11
+                        megapixels), and is most appropriate for:</p>
+                    <xmt:uList>
+                        <item>Larger documents (A3 size and upwards);</item>
+                        <item>Documents of any size that are damaged and for which imaging is
+                            intended to provide a surrogate for digital restoration;</item>
+                        <item>Documents for which exceptionally high resolution is required for the
+                            end purpose.</item>
+                    </xmt:uList><p></p>
+                    <p></p>
+                    <p>The usual shot-rate for this camera is approx 80 shots per day, or up to 12
+                        shots per hour. This is based on normal working hours and reasonable
+                        handling and access to the document. If a document requires more complex
+                        handling between shots the shot-rate will be lower. Please ensure that you
+                        have evaluated the document appropriately before attempting to calculate a
+                        shot-rate yourself. The photographer is available to make an initial visit
+                        to evaluate a document, or set of documents, for photographic work at a
+                        reduced daily consultancy rate.</p>
+                    <p>Imaging is undertaken on a daily rate basis (plus travel and
+                    subsistence).</p>
+                </div>
+                <div>
+                    <head>PhaseOne P45+</head>
+                    <p>This is the first in a new generation of high-end single-shot cameras.
+                        Similar digital backs have been produced by Leaf, Hasselblad and Sinar, but
+                        most end users consider the quality of images from the PhaseOne P45+ to be
+                        superior. A very useful review may be found here:<ref target="http://www.luminous-landscape.com/reviews/cameras/p45plus.shtml" type="external">http://www.luminous-landscape.com/reviews/cameras/p45plus.shtml.</ref>
+                    </p>
+                    <p>A 'single-shot camera' means that the whole image is acquired in one action,
+                        so the camera works much as a normal digital SLR would do. The difference is
+                        in the size of the images. A high-end consumer digital SLR will capture
+                        images at 8-11 megapixels. The P45+ is able to capture images at 39
+                        megapixels, thus yielding archive quality images for documents almost as
+                        large as A3 size, and quality well above this minimum for smaller documents.</p>
+                    <p>The P45+ is ideal for:</p>
+                    <xmt:uList>
+                        <item>Small documents up to A4 size, or up to A3 if the source material is
+                            undamaged and the needs of the end-use do require a higher resolution</item>
+                        <item>Projects where a large number of images are required in a short space
+                            of time, and where the source documents are in good condition.</item>
+                    </xmt:uList><p></p>
+                    <p>The shot-rates for the P45+ have not been fully tested: because of the way
+                        the software works, capture time is relatively short, but we have to allow
+                        at least a day following the capture time for post-processing to produce the
+                        final images. We would expect to be able to obtain upwards of 600 images in
+                        a full day of shooting, or approx 100 images per hour. This estimate is
+                        based on easy document handling. If a document requires more complex
+                        handling between shots the shot-rate will be lower. Please ensure that you
+                        have evaluated the document appropriately before attempting to calculate a
+                        shot-rate yourself. The photographer is available to make an initial visit
+                        to evaluate a document, or set of documents, for photographic work at a
+                        reduced daily consultancy rate.</p>
+                    <p>Imaging is undertaken on a daily rate basis (plus travel and subsistence).</p>
+                    <p>
+                        <emph>A note on costs: we have compared our consultancy rates with charges
+                            made by the British Library and the Bodleian Library for images of the
+                            same quality, taken using the same equipment. Based on a two-day,
+                            full-time shoot in a library in Switzerland (i.e. including travel from
+                            the UK and subsistence expenses), resulting in 200 images in total,
+                            projects can usually obtain their images for approx. a tenth of the
+                            price of buying the same number of images from either of these
+                            institutions. This estimate is based on the use of the PowerPhase FX.
+                            Work done using the P45+ works out at less than one fiftieth of the cost
+                            of buying images from these suppliers.</emph>
+                    </p>
+                    <p>Quick comparison:</p>
+                    <table>
+                        <row role="data">
+                            <cell role="label" rows="1" cols="1">Equipment</cell>
+                            <cell role="label" rows="1" cols="1">Sensor size</cell>
+                            <cell role="label" rows="1" cols="1">Max MPx</cell>
+                            <cell role="label" rows="1" cols="1">Capture time</cell>
+                            <cell role="label" rows="1" cols="1">Max file sizes at 24-bit RGB</cell>
+                            <cell role="label" rows="1" cols="1">Real-size dpi for A4 page</cell>
+                            <cell role="label" rows="1" cols="1">Per-image cost*</cell>
+                        </row>
+                        <row role="data">
+                            <cell role="data" rows="1" cols="1">PowerPhase FX</cell>
+                            <cell role="data" rows="1" cols="1">10,500 x 12,600 pixels</cell>
+                            <cell role="data" rows="1" cols="1">132 Megapixels</cell>
+                            <cell role="data" rows="1" cols="1">3-6 mins</cell>
+                            <cell role="data" rows="1" cols="1">&lt; 350 MB</cell>
+                            <cell role="data" rows="1" cols="1">1077 dpi</cell>
+                            <cell role="data" rows="1" cols="1">£5.00/€6.50</cell>
+                        </row>
+                        <row role="data">
+                            <cell role="data" rows="1" cols="1">P45+</cell>
+                            <cell role="data" rows="1" cols="1">7200 x 5400 pixels</cell>
+                            <cell role="data" rows="1" cols="1">39 Megapixels</cell>
+                            <cell role="data" rows="1" cols="1">Approx 1 sec.</cell>
+                            <cell role="data" rows="1" cols="1">&lt; 113 MB</cell>
+                            <cell role="data" rows="1" cols="1">700</cell>
+                            <cell role="data" rows="1" cols="1">£0.83/€1</cell>
+                        </row>
+                    </table>
+                    <p>*The per-image cost is based on capture of 80 images per day (PowerPhase FX)
+                        or 600 images per day (P45+). The costs include only the daily consultancy
+                        rate, and DO NOT include travel or subsistence.</p>
+                </div>
+                <div>
+                    <head>Specialised and experimental imaging requirements</head>
+                    <p>As long as there are no conservation problems with the source materials, we
+                        are happy to undertake experimental imaging processes in consultation with
+                        the researcher, including:</p>
+                    <xmt:uList>
+                        <item>Close-up shots;</item>
+                        <item>Raking normal (RGB) light, raking UV light;</item>
+                        <item>Transmissive light using a cold fibre-optic light sheet, ideal for
+                            documents which are stuck together, for faded ink, or for photographing
+                            watermarks;</item>
+                        <item>UV imaging using low-frequency ultra-violet lighting heads;</item>
+                        <item>Multi-spectral imaging using limited-bandwidth interference filters,
+                            which is particularly useful in dealing with very damaged (e.g. burned)
+                            documents and erasures;</item>
+                        <item>Infra-red imaging (limited effectiveness in the digital medium due to
+                            the very long exposure, which gives rise to 'noise' on the
+                        image).</item>
+                    </xmt:uList><p></p>
+                    <p>UV photography uses low-frequency 'blacklight' ultra-violet lighting heads,
+                        which do not project the harmful UV that requires protective eye-wear and
+                        causes burns to the skin. Because of the low lighting levels, exposures are
+                        very long (up to 15 minutes using the FX scanning back, but depends on the
+                        size of the source and degree of fluorescence of the subject material under
+                        the UV light). Multi-spectral work is done using the P45+, and taking shots
+                        with a wide range exposures within the visible spectrum for each of eight
+                        filters: thus a set of multi-spectral images for a single leaf would
+                        comprise about 60 shots and take about 10-15 minutes to obtain after the
+                        document has been positioned. Transmissive light has proved successful in
+                        allowing material to be read from pages pasted together, and in
+                        photographing watermarks. The light sheet is thin enough to be inserted
+                        between pages in a book.</p>
+                    <p>The success of these techniques, either singly or in combination, in
+                        obtaining data from damaged materials cannot be assured, as each source is
+                        different and results vary widely. However, we have found so far that the
+                        images always provide some additional information, even if it is not very
+                        much, and having tried these processes is a way of ensuring that all efforts
+                        have been made to read the document that are possible with current
+                        technology.</p>
+
+                </div>
+            </div>
+            
+            
+            
+            <div>
+                <p>If you would like to enquire further about your requirements, or about a project
+                    that you are planning, please contact the Project Manager, <ref type="email" target="diamm@music.ox.ac.uk">Julia
+                        Craig-McFeely,</ref></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p0_3_0"
+	xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>More about the images</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>King's College London</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Text from Julia Craig-McFeely</p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-08-17" who="Charlotte Tupman">Created page</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>The Ferrell-Vogüé Machaut manuscript (privately owned, currently on loan to
+					GB-Cambridge, Corpus Christi College, Parker Library)</head>
+				<p>The Ferrell-Vogüé Machaut manuscript (privately owned, currently on loan to
+					GB-Cambridge, Corpus Christi College, Parker Library) Perhaps the most famous
+					composer of the Medieval period was the poet-musician Guillaume de Machaut
+					(1300-c.1375). He was unusual because he created his own 'collected editions' of
+					his poetry and music during is lifetime (something no other composer did),
+					supervising the copying, illumination and distribution of a number of manuscript
+					copies of his works (this miniature shows Machaut himself). Probably the most
+					famous manuscript of his works is this one, the Ferrell-Vogüé manuscript (named
+					for its current owners and a previous owner). It is partly famous because
+					although it has been widely known, it has always been in private hands so has
+					until recently been almost impossible to see. The secrecy and inaccessibility of
+					the manuscript have contributed to its notoriety, but also to its exceptionally
+					fine state of preservation: its pages - about two thirds poetry and one third
+					music - looking as bright and clear as the day they were written. Its current
+					owners, James E and Elizabeth J Ferrell, have lent the manuscript to the library
+					of Corpus Christi College, Cambridge, where scholars may visit and study the
+					manuscript in person for the first time in its long life. Unlike the great
+					English choirbooks or the choirbooks of the Alamire workshop, Machaut's books
+					were not intended to be sung from by a large group of singers, but were usually
+					presentation copies, and are therefore not so massive as the great choirbooks.
+					Images of the entire MS can be seen on DIAMM by going to the listing for Corpus
+					Christi. The book will also be published in facsimile by DIAMM Publications.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

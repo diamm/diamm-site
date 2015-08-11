@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../schema/menu/menu.rng" type="xml"?>
+
+<root label="" xmlns="http://www.cch.kcl.ac.uk/xmod/menu/1.0">
+  <menu href="index.html" label="Home" />
+
+  <menu href="index.html" label="About" root="about">
+    <item href="acknowledgements.html" label="Acknowledgements" />
+    <item href="partners.html" label="Partners/Sponsors" />
+    <menu href="index.html" label="Project Description" root="project">
+      <item href="scope.html" label="Scope" />
+      <item href="archive.html" label="Image Archive" />
+      <item href="libraries.html" label="List of Libraries" />
+      <!-- THIS WILL BE ADDED IN DUE COURSE <item href="outputs.html" label="Research Outputs" />-->
+      <item href="submit.html" label="Submit New Information" />
+      <item href="reports.html" label="Project Reports" />
+      <!--<item href="imagetext.html" label="More about the images" />-->
+      <!--<item href="etontext.html" label="More about this image" />
+      <item href="londontext.html" label="More about this image" />
+      <item href="oldhalltext.html" label="More about this image" />
+      <item href="ferrelltext.html" label="More about this image" />
+      <item href="mechelentext.html" label="More about this image" />-->
+    </menu>
+    <menu href="index.html" label="Technical Overview" root="technical">
+      <item href="capture.html" label="Image Capture" />
+      <item href="quality.html" label="Image Quality" />
+      <item href="archiving.html" label="Archiving" />
+      <item href="conservation.html" label="Conservation" />
+      <item href="meta.html" label="Metadata" />
+      <item href="restoration.html" label="Digital Restoration" />
+    </menu>
+    <item href="team.html" label="Project Team" />
+    <item href="donations.html" label="Support DIAMM" />
+    <item href="copyright.html" label="Copyright &amp; Citation" />
+    <item href="inuse.html" label="DIAMM In Use" />
+    <!-- SITEMAP  - this will be generated automatically; check to see that it goes in right place -->
+    <item href="contact.html" label="Contact" />
+  </menu>
+
+  <menu label="MS Database" href="FacetManager" root="jsp" />
+  
+ <menu label="Advanced Search" href="SearchManager" root="jsp" />
+  
+  <menu label="Bibliography" href="Bibliography" root="jsp" />
+  
+  <menu href="index.html" label="Publications" root="publications">
+    <item href="aboutpublications.html" label="About DIAMM Publications" />
+    <item href="byrd.html" label="William Byrd, Masses for 3, 4, and 5 voices" />
+    <item href="eton.html" label="The Eton Choirbook" />
+    <item href="dow.html" label="The Dow Partbooks" />
+    <item href="bologna.html" label="Bologna Q15: The Making and Remaking of a Musical Manuscript" />
+    <item href="workbook.html" label="DIAMM Digital Restoration Workbook" />
+  </menu>
+  
+ <menu href="index.html" label="Resources" root="resources">
+    <item href="editions.html" label="Music Editions" />
+    <item href="dissertations.html" label="Doctoral Dissertations" />
+    <item href="appendices.html" label="Appendices and Errata Lists" />
+ </menu>
+  
+  <menu href="index.html" label="Services" root="services">
+    <item href="consultancy.html" label="Consultancy" />
+    <item href="simaging.html" label="Imaging" />
+    <item href="drestoration.html" label="Digital Restoration" />
+    <item href="grantapps.html" label="Grant Applications" />
+    <item href="delivery.html" label="Online Image Delivery" />
+  </menu>
+
+  <menu href="index.html" label="Website Help" root="help">
+    <item href="manuscripts.html" label="Finding Manuscripts" />
+    <item href="libraries.html" label="Finding Libraries" />
+    <item href="descriptions.html" label="Source Descriptions" />
+    <item href="viewer.html" label="Image Viewer" />
+  <!--  <item href="newspage.html" label="News Page" />-->
+    <menu href="index.html" label="FAQ" root="faq">
+      <item href="usage.html" label="Website Usage &amp; Functions" />
+      <item href="registration.html" label="Registration &amp; Account" />
+      <item href="archive.html" label="Information in Archive" />
+      <item href="copyright.html" label="Copyright &amp; Permission" />
+    </menu>
+  </menu>
+</root>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fd:form xmlns:fd="http://apache.org/cocoon/forms/1.0#definition">
+  <fd:widgets>
+    <fd:field id="email" required="true">
+      <fd:label>From:</fd:label>
+      <fd:datatype base="string" />
+      <fd:validation>
+        <fd:email />
+      </fd:validation>
+    </fd:field>
+
+    <fd:field id="subject" required="true">
+      <fd:label>Subject:</fd:label>
+      <fd:datatype base="string" />
+    </fd:field>
+
+    <fd:field id="message" required="true">
+      <fd:label>Message:</fd:label>
+      <fd:datatype base="string" />
+    </fd:field>
+  </fd:widgets>
+</fd:form>

@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_21" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Nicholas Sandon, The Henrican Partbooks Belonging to Peterhouse, Cambridge
+                    (Cambridge, University Library, Peterhouse Manuscripts 471-474): A Study, with
+                    Restorations of the Incomplete Compositions Contained In Them (PhD, University of Exeter, 1983)</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+            <head/>
+
+            <div>
+                <head>PDF Download Links</head>
+
+                <!-- PDF links -->
+                <p>
+                    <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/Sandon12.pdf">Chapters 1 and 2 (26.5 MB)</ref> |
+                        <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/Sandon34.pdf">Chapters 3 through 7 and musical
+                        appendix (23 MB)</ref></p>
+                <p>These 8 chapters represent Volume 1 of the original thesis. Volume 2 contained
+                    musical editions which have now been published by Antico Edition and therefore
+                    not included.</p>
+            </div>
+            <div>
+                <head>Abstract</head>
+                <!-- Abstract -->
+                <p>This first volume of this dissertation examines Cambridge, University Library,
+                    Peterhouse mss 471–474, four partbooks from a set of five copied late in the
+                    reign of Henry VIII, which contain seventy-two pieces of Latin church music. The
+                    first chapter discusses the presence at Peterhouse of this set, investigates its
+                    relationship to the Caroline partbooks belonging to the college and suggests
+                    means by which this collection of manuscripts could have come to Peterhouse. The
+                    second chapter is a palaeographical study of mss 471–474 and seeks to discover
+                    the processes by which they were copied; they are found to have been the work of
+                    a single scribe. The third chapter brings together biographical information from
+                    published and unpublished sources on the composers represented in the books.
+                    After referring to conflicting ways in which scholars have interpreted the
+                    existence of these books, the fourth chapter provides a new interpretation by
+                    relating the palaeographical and biographical evidence to the circumstances of
+                    English religious history in the last decade of Henry's reign: it is suggested
+                    that most of the repertory in the books was copied from manuscripts belonging to
+                    Magdalen College, Oxford, probably in 1540–41, and that the books were intended
+                    for use at the New Foundation cathedral at Canterbury; an identity is suggested
+                    for the scribe. If the general thrust of the argument is accepted, the
+                    conservatism of much of the music in Ph must be considered typical of church
+                    music in England at this time. The fifth chapter justifies the practice of
+                    restoring voices missing from compositions of this period and describes some of
+                    the problems and solutions involved; working notes including analysis and
+                    stylistic comment are provided for the fifty restored compositions originally
+                    presented in the second volume. The sixth chapter introduces and presents the
+                    Latin texts with English translations. The seventh and last chapter consists of
+                    a critical commentary. The two original appendices contained short essays on
+                    more peripheral topics that arose during the research; these appendices are not
+                    included in the present revision because articles based on them have appeared
+                    elsewhere. A musical appendix presents the cantus firmi and other material
+                    associated with the incomplete compositions.</p>
+            </div>
+            <div type="contents">
+                <head>Table of Contents</head>
+                <xmt:uList>
+                    <item>Title Page<ref type="pageref">i</ref></item>
+                    <item>Dedication<ref type="pageref">ii</ref></item>
+                    <item>Table of Contents<ref type="pageref">iii</ref></item>
+                    <item>Editions, originally included in the dissertation, now published by Antico
+                            Edition<ref type="pageref">iv</ref></item>
+                    <item>Introduction to the original version<ref type="pageref">v</ref></item>
+                    <item>Introduction to the revised version<ref type="pageref">v</ref></item>
+                    <item>Summary<ref type="pageref">vii</ref></item>
+                    <item>Abbreviations<ref type="pageref">ix</ref></item>
+                    <item>Bibliograhpy<ref type="pageref">xi</ref></item>
+                    <item>Supplementary Bibliography<ref type="pageref">xix</ref></item>
+                    <item>Chapter One: The musical manuscripts at Peterhouse <xmt:uList>
+                            <item>1: Introduction<ref type="pagereg">1</ref></item>
+                            <item>2: A summary of previous content<ref type="pageref">2</ref></item>
+                            <item>3: The Henrican and Caroline sets and their presence at
+                                    Peterhouse<ref type="pageref">5</ref></item>
+                            <item>4. A preliminary description and inventory of the Henrican set
+                                    (Ph)<ref type="pageref">8</ref></item>
+                            <item>5. Inventory<ref type="pageref">15</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Chapter Two: A palaeographical study of Ph <xmt:uList>
+                            <item>1: Collation<ref type="pageref">25</ref></item>
+                            <item>2: Interpolations and foliation<ref type="pageref">30</ref></item>
+                            <item>3: The indexes<ref type="pageref">33</ref></item>
+                            <item>4: At what stage were the books first bound?<ref type="pageref">35</ref></item>
+                            <item>5: Layout and staves<ref type="pageref">36</ref></item>
+                            <item>6: The music hand and notation<ref type="pageref">41</ref></item>
+                            <item>7: The text hands<ref type="pageref">48</ref></item>
+                            <item>8: The scribe's method of working<ref type="pageref">52</ref></item>
+                            <item>9: Mistakes and their correction<ref type="pageref">62</ref></item>
+                            <item>10: The scribe's attitude to his exemplars<ref type="pageref">67</ref></item>
+                            <item>11: The watermarks<ref type="pageref">69</ref></item>
+                            <item>12: Groupings in Ph<ref type="pageref">75</ref></item>
+                            <item>13: The relationship of Ph to other English sources<ref type="pageref">79</ref></item>
+                        </xmt:uList></item>
+                    <item>Chapter Three: The composers represented in Ph<ref type="pageref">83</ref></item>
+                    <item>Chapter Four: The provenance, destination and interpretation of Ph <xmt:uList>
+                            <item>1: The problem of interpretation<ref type="pageref">115</ref></item>
+                            <item>2: The provenance of the music<ref type="pageref">121</ref></item>
+                            <item>3: The destination of the partbooks<ref type="pageref">125</ref></item>
+                            <item>4: The implications of the collection<ref type="pageref">138</ref></item>
+                        </xmt:uList></item>
+                    <item>Chapter Five: Restoring the incomplete compositions <xmt:uList>
+                            <item>1: Introduction<ref type="pageref">147</ref></item>
+                            <item>2: Notes on the restoration of individual compositions<ref type="pageref">150</ref></item>
+                        </xmt:uList></item>
+                    <item>Chapter Six: Latin texts and English translations <xmt:uList>
+                            <item>1: Introduction<ref type="pageref">197</ref></item>
+                            <item>2: Texts and translations<ref type="pageref">203</ref></item>
+                        </xmt:uList></item>
+                    <item>Chapter Seven: Critical Commentary <xmt:uList>
+                            <item>1: Introduction<ref type="pageref">239</ref></item>
+                            <item>2: List of concordant sources<ref type="pageref">240</ref></item>
+                            <item>3: Commentary<ref type="pageref">244</ref></item>
+                        </xmt:uList></item>
+                    <item>Musical Appendix: Cantus firmus and other material used in the incomplete
+                            compositions<ref type="pageref">271</ref></item>
+                </xmt:uList><p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

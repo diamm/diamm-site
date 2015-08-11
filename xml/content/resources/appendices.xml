@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13"
+    xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Appendices and Errata lists</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-10-10" who="Charlotte Tupman">Added new content</change>
+            <change when="2011-09-07" who="Charlotte Tupman">Added new content</change>
+            <change when="2011-08-02" who="Charlotte Tupman">Added new content</change>
+            <change when="2011-06-02" who="Charlotte Tupman">Created page</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+
+            <div>
+                <head>Appendices and Errata lists to dissertations and publications</head>
+                <div>
+                    <head>Jane Alden: <hi rend="italic">Songs, Scribes, and Society; The History and
+                            Reception of the Loire Valley Chansonniers</hi> (New York: OUP,
+                        2011)</head>
+                    <xmt:uList>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/AldenAppendix_A.pdf"
+                                >Appendix A - Summary codicological information</ref></item>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/AldenAppendix_B.pdf"
+                                >Appendix B - Contents lists</ref></item>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/AldenAppendix_C1.pdf"
+                                >Appendix C1 - Structure of the Laborde Chansonnier</ref></item>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/AldenAppendix_C2.pdf"
+                                >Appendix C2 - Structure of the Dijon Chansonnier</ref></item>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/AldenAppendix_C3.pdf"
+                                >Appendix C3 - Structure of the Copenhagen Chansonnier</ref></item>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/AldenAppendix_C4.pdf"
+                                >Appendix C4 - Structure of the Chansonnier Nivelle de la
+                                Chaussée</ref></item>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/AldenAppendix_C5.pdf"
+                                >Appendix C5 - Structure of the Wolfenbüttel
+                            Chansonnier</ref></item>
+                    </xmt:uList>
+                </div>
+                <div>
+                    <head>Margaret Bent: <hi rend="italic">Bologna Q15. The Making and Remaking of a
+                            Musical Manuscript, Introductory Study and Facsimile Edition</hi> 2
+                        vols. (Lucca: Lim Editrice, 2009)</head>
+                    <xmt:uList>
+                        <item>
+                            <ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/Q15errata.pdf">Addenda and
+                                corrigenda</ref>
+                        </item>
+                    </xmt:uList>
+                </div>
+                <div>
+                    <head>David Fallows: <hi rend="italic">A Catalogue of Polyphonic Songs,
+                            1415-1480</hi> (Oxford: OUP, 1999)</head>
+                    <xmt:uList>
+                        <item><ref type="external"
+                                target="http://www.diamm.ac.uk/redist/pdf/FallowsAppx.pdf"
+                                >Addenda</ref></item>
+                    </xmt:uList>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

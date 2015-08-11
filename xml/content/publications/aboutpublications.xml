@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p2_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Producing DIAMM Publications</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2010-05-07</date><name>Greg Skidmore</name>Created page</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <head>Producing DIAMM Publications</head>
+                <p>DIAMM Publications was set up to create facsimile publications of the highest
+                    quality without the massive cost markup of conventional publishers. High-quality
+                    colour printing is expensive, and the price only comes down when doing runs off
+                    tens of thousands, such as is done for glossy exhibition catalogues. With runs
+                    of a few hundred the unit cost is massively higher, but we felt that if we could
+                    produce publications without the usual overheads of a publishing house then we
+                    could produce publications that were affordable by to individuals, and to
+                    research libraries, whose spending budgets have been seriously diminished in the
+                    last few years. The profit margin on our publications is therefore extremely
+                    small, and is used only to subsidize future publications. All the income is
+                    spent on the actual cost of printing and binding. Nothing is spent on marketing,
+                    advertising, office management etc. All these costs have been met by private
+                    sponsorship.</p>
+
+                <p><figure>
+                        <graphic url="aboutpub1.jpg" mimeType="image/jpg" rend="left"/>
+                    </figure>Publications are funded by pre-publication sales offers, which give the
+                    opportunity to buy the books at a considerable discount from the full cover
+                    price.</p>
+                <p>Our prices are calculated based on the number of copies we think we can sell in
+                    the very long term. We then obtain the printing cost for this number of copies
+                    (the more we can print at one time, the lower the unit cost, but the overall
+                    cost still goes up, so we have to be able to raise that amount before we go to
+                    press. Printing costs have to be paid in full at the time of printing).
+                    Pre-publication sales help in determining the final print run number, but we
+                    also have to work out how many copies we can sell pre-publication. The
+                    pre-publication number is crucial, as the pre-publicaton cover price is
+                    calculated by dividing the printing/binding cost by the pre-publication sales
+                    number.</p>
+                <p>We also have to remember that booksellers and other suppliers expect a 25%
+                    discount on our normal prices (pre- or post-publication), so that they can make
+                    some profit on sales, so we have to ensure the cover prices will allow us that
+                    further discount leeway.</p>
+
+                <p><figure>
+                        <graphic url="aboutpub2.jpg" mimeType="image/jpg" rend="right"/>
+                    </figure>If we miscalculate and don't sell enough copies then the project has to
+                    underwrite the deficit. At the moment that means the project team are
+                    underwriting, but eventually we hope the publications will bring in sufficient
+                    funds for less popular publications to be subsidized by those that have a better
+                    market. The Dow Partbooks project was subsidized by the Eton Choirbook at the
+                    point when we had to pay the printing bill. Since publication we have sold a few
+                    more copies of Dow so that the book has paid for its own printing, but it has
+                    not raised enough yet to pay the full typesetting costs. Dow was therefore
+                    printed at a loss, but over the life of the project we expect it to pay for
+                    itself.</p>
+                <p>Once the printing bill is paid future sales will pay for the cost of typesetting
+                    and the administration necessary for shipping and managing orders (in the early
+                    stages this is around 1 hour a day), and then will go toward the photography
+                    costs for future projects, and will underwrite future printing costs.
+                    Effectively the project is non-profit therefore, ensuring we can give the best
+                    possible price to our purchasers.</p>
+                <p>The printing bill for Eton and Dow together was £42,000. The binding of Eton will
+                    cost a further £33,000 approx, but we will only be binding this in batches as
+                    required, so we don't have to find that amount right away.</p>
+                <p>We work very closely with Information Press at Eynsham. Andrew Hopwood and Martin
+                    Horsley ensure we produce exactly what they need to print perfectly, and work
+                    closely with us to find the best solutions for quality and materials. We decided
+                    at the outset that we would not cut corners to save a few pence, since colour
+                    printing needs to be at the best possible quality to be useful and attractive
+                    (and to showcase the superb quality of our images), and Information Press have
+                    gone out of their way to ensure we are getting the best value and output.</p>
+
+                <p><figure>
+                        <graphic url="aboutpub3.jpg" mimeType="image/jpg" rend="left"/>
+                    </figure>Limp binding (as for Dow) is done in-house by Information Press, but
+                    for the Eton Choirbook we are working with Green Street Bindery (in Oxford), a
+                    long-established firm of hand binders. The physical size of Eton and the
+                    relatively short print run meant that the project could not be outsources to
+                    large-scale machine binders (who would normally only take on projects with an
+                    output of 10,000 copies or more). Each copy of Eton will therefore be hand bound
+                    and finished.</p>
+
+                <p><figure>
+                        <graphic url="aboutpub6.jpg" mimeType="image/jpg" rend="right"/>
+                    </figure>There is no doubt that in order to print in colour in short runs the
+                    books will be expensive. Our costs are kept to an absolute minimum, and we hope
+                    that buyers will appreciate that we are not overcharging for our books. Many
+                    academic publications are subsidized by subventions from grant bodies or
+                    personal donations, and we hope that this type of income will also support our
+                    publications, but at the moment we are entirely self-supporting, and much of the
+                    work involved in producing a book is done <hi rend="italic">pro bono</hi>. A
+                    comparison might be made between the Eton Choirbook and the Henry VIII choirbook
+                    recently published by the Folio Society:</p>
+                <p>Henry VIII 'Royal Choirbook'; print run of 500: 36 colour pages, gilded, in
+                    slipcover, plus 120pp commentary volume - £395 Eton: 256 colour pages, plus
+                    112pp introduction - £180</p>
+            </div>
+        </body>
+    </text>
+</TEI>

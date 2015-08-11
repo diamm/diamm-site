@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p2_4" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>DIAMM Publications</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+     
+         
+            <div>
+                <head>The Eton Choirbook</head>
+                <p>
+                    <hi rend="bold">A full-colour facsimile edition of Eton College Library, MS
+                        178</hi>
+                </p>
+                <p><figure><graphic url="Eton2.jpg" mimeType="image/jpg" rend="left"/></figure>One of the most iconic of music manuscripts, the
+                    Eton Choirbook is of unique importance, both in its own right as a cultural
+                    artefact and as a source of English choral polyphony composed during the late
+                    fifteenth and early sixteenth centuries. Had it perished, along with so many
+                    other (less fortunate) pre-Reformation music manuscripts, our knowledge of a
+                    critical moment in the history of English music would have been immensely
+                    diminished.</p>
+                <p>Ever since it was first copied for use in the college chapel in the early 1500s,
+                    the choirbook has been continuously in the possession of Eton College. Several
+                    composers whose works were included in it had close associations with the
+                    college, not least Robert Wylkynson, who served as the college's informator
+                    choristarum from 1500. Other composers represented include Banaster, Browne,
+                    Cornyshe, Davy, Fawkyner, Fayrfax, Hygons, Lambe and Turges. Most of its
+                    original contents (67 out of a total of 93 pieces) were votive antiphons, or
+                    devotional motets of prayer and praise, sung each evening to the Virgin Mary,
+                    the college's dedicatee. The Salve ceremony, familiar to worshippers throughout
+                    Catholic Europe, lay at the heart of Eton College's raison d'être as a
+                    chantry college: the Eton Choirbook is an eloquent witness to this flowering of
+                    devotional culture on the eve of the Reformation.</p>
+                <p><figure><graphic url="Eton3.jpg" mimeType="image/jpg" rend="right"/></figure>The manuscript is also a work of consummate
+                    artistry, copied by an experienced scribe on large vellum leaves, and
+                    illuminated by a professional limner. Even in its in-complete state (nearly half
+                    of its original 224 leaves have been lost), the Eton Choirbook is the undoubted
+                    queen of early Tudor music manuscripts.</p>
+                <p>The Choirbook is presented in full colour facsimile on heavy matt art paper,
+                    hard bound, with an introduction by Magnus Williamson (Newcastle University) and
+                    published by the Digital Image Archive of Medieval Music (University of
+                    Oxford)</p>
+                <p>Pages: 112 (introduction) + 264 full colour</p>
+                <p>Format: 427 x 306 mm (reduced from 590 x 420 mm)</p>
+                <p>Images from and a detailed source descrition of the Eton Choirbook is available
+                    on the DIAMM website. While the description is always available, you must be
+                    logged in to DIAMM in order to see the images. Please sign up for your free
+                    DIAMM account <ref type="internal" cRef="p7_2">here</ref> or log in <ref type="internal" cRef="p12_2">here.</ref> Once you have logged in, please
+                    come back to this page and use the link below to be taken direct to the Eton
+                    Choirbook's page.</p>
+                <p>
+                    <ref type="external" target="http://www.diamm.ac.uk/jsp/Source.jsp?navToggle=1&amp;sourceKey=202">Eton Choirbook on DIAMM</ref></p>
+                <p>A contents list for the manuscript can be found <ref type="redist" cRef="pdf/Eton_Contents.pdf">here</ref> (PDF document)</p>
+                <p>
+                    <hi rend="bold">For Pricing and order information please visit the <ref
+                        type="external" target="http://tinyurl.com/DIAMMpubs">online
+                        shop</ref></hi></p>
+                <p>UK/Europe Orders and payment may be made electronically in any currency via our
+                    <ref type="external" target="http://tinyurl.com/DIAMMpubs">online
+                        shop</ref></p>
+                <p>All orders for <hi rend="bold">USA and Canada</hi> should be made through <ref type="external" target="http://www.omifacsimiles.com">OMI Facsimile
+                    sales</ref></p>
+                <p>All orders for <hi rend="bold">Japan and Asia</hi> should be made through <ref
+                    type="external" target="http://www.academia-music.com">Academia Music</ref>
+                </p>
+                <p>Orders in <hi rend="bold">Australia and New Zealand</hi> can also be made through
+                    <ref type="external" target="http://www.saraband.com.au">Saraband
+                        Music</ref></p>
+                <p>Please contact DIAMM or OMI if you wish to make multiple purchases to enquire
+                    about discounts, or if you are a retailer.</p>
+                <p>Download publicity leaflet <ref type="redist" cRef="pdf/Eton.pdf">here</ref></p>
+                <!--<figure url="EtonWeb1"/>-->
+            </div>
+          
+        </body>
+    </text>
+</TEI>

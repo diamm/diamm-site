@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p9_5"
+    xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>News Page</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change when="2008-05-02" who="Greg Skidmore">Created File</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>News Page</head>
+                <div>
+                    <head>Using the RSS News Feed</head>
+                    <p>The News Page contains items relevant to the project as a whole, and news of
+                        changes to the website or uploads of new online content (e.g. a new
+                        manuscript brought online). News items are added as they happen, so this is
+                        not like a newsletter which has e.g. a weekly update. It can be read in
+                        place as a normal web page, but to save you from having to check this page
+                        at regular intervals to see if anything has changed, it has been constructed
+                        as an RSS feed page. This means that if you click on the ‘RSS newsfeed' link
+                        to the right of the top of the page, you can ‘subscribe' to the DIAMM page,
+                        and you will be automatically notified of new items.</p>
+                    <p>
+                        <figure>
+                            <graphic url="Help19.jpg" mimeType="image/jpg" rend="img-left"/>
+                        </figure>
+                    </p>
+                    <p>If you have never subscribed to a newsfeed before simply click on the link
+                        and you will be guided through the steps by your browser. News feeds may be
+                        added either to your browser or your e-mail client. </p>
+                    <p>Usually if you use an e-mail software such as Outlook it is best to direct
+                        the feed to go to that software, and new items will appear as if they are
+                        new e-mails in a special ‘mailbox' created by your e-mail software, or else
+                        will appear in your Inbox as e-mails. If you usually use webmail through a
+                        browser then you should direct the feed to be read by your browser by
+                        creating a bookmark. You will be offered these options when you click on the
+                        link.</p>
+                    <p>
+                        <xmt:uList>
+                            <item>Subscribing to the feed is free</item>
+                            <item>You can cancel or remove your feed connection easily, at any
+                                time</item>
+                            <item>You cannot receive spam through an RSS newsfeed</item>
+                            <item>Your e-mail address is not communicated through an RSS feed, so it
+                                cannot be passed on to anyone else</item>
+                            <item>You cannot get a virus through an RSS feed.</item>
+                        </xmt:uList><p/>
+                    </p>
+
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

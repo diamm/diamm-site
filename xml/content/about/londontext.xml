@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p0_3_0"
+	xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>More about the images</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>King's College London</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Text from Julia Craig-McFeely</p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-08-17" who="Charlotte Tupman">Created page</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>London, The National Archives, E 163/22/1/3</head>
+				<p>Fragments are often all that survives of medieval music manuscripts, because the
+					parchment the music was written on was considered more valuable than the music.
+					Once the music fell out of fashion, the strong and expensive material that had
+					been used to make the original book would be re-used, perhaps by scraping and
+					refinishing, so that it could be written on again, or perhaps as structural
+					supports for the binding of new books. Many books thus re-used survive only as
+					isolated pages, pasted down to the hard front and back binding boards of the new
+					binding (and now damaged and discoloured by glue), or in rarer cases cut up into
+					narrow strips and wrapped around gatherings of pages to protect the stitching
+					from wearing through. Sometimes a fragment might become the binding or wrapper
+					for later documents, the outer side becoming rubbed and discoloured so that the
+					music is lost, while the inner face remains bright and clear. Sadly some of
+					these once beautiful leaves were even eaten by rats (who loved to eat gold leaf)
+					or became mouldy and disintegrated, with only tantalising fragments left, though
+					even fragments can provide evidence of the development of different musical
+					scripts, and sometimes supply a missing voice part to a piece partially
+					surviving in a different fragment. Digital restoration has recovered much music
+					lost by this the accumulation of dirt and restored images can be seen alongside
+					the originals in the image-viewer for these MSS in the DIAMM collection. Sadly
+					gaps in the parchment can never be recovered, although the music on this leaf
+					survives complete in another manuscript.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

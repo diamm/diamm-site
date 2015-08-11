@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p11_3">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Services</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher></publicationStmt>
+            <sourceDesc>
+              <p></p>  
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2008-10-09</date><name>Greg Skidmore</name>Added page</change><change><date>2008-02-22</date><name>Greg Skidmore</name>Finalised content</change><change><date>2008-02-18</date><name>Greg Skidmore</name>Created first version of content</change><change><date>2008-01-24</date><name>AC</name>created doc</change></revisionDesc></teiHeader>
+    <text>
+        <body>
+            <head>Grant Applications</head>
+            
+            
+            
+            <div>
+                <head>Grant applications</head>
+                <p> DIAMM welcomes collaborations with projects in which image acquisition by DIAMM
+                    is either purchased following a successful grant application, cited in the
+                    application process. Outsourcing your imaging needs ensures that your time is
+                    spent doing the work that you and your researchers are best qualified to do, and
+                    leaves imaging to a specialist who will ensure you receive the best possible
+                    quality of images, that meet your needs ideally. </p>
+                <p>We are available to consult on grant applications for projects in which you
+                    either intend to use DIAMM as your image supplier, or for projects where you
+                    would use other suppliers but require guidance on completing the technical parts
+                    of the application form. If you intend to use DIAMM to create your digital
+                    images you may simply cite DIAMM as the image-supplier or imaging consultant, as
+                    long as you have checked with us first to ensure we are able to undertake your
+                    work, and that the document-owners concerned will allow us to work with their
+                    documents.</p>
+                <p>DIAMM has currently made 7 successful grant applications to three funding bodies,
+                    in the UK and the USA. We would normally charge for consultancy time required to
+                    prepare text for a grant application.</p>
+
+            </div>
+            
+            <div>
+                <p>If you would like to enquire further about your requirements, or about a project
+                    that you are planning, please contact the Project Manager, <ref type="email" target="diamm@music.ox.ac.uk">Julia
+                        Craig-McFeely,</ref></p>
+            </div>
+        </body>
+    </text>
+</TEI>

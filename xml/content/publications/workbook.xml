@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p2_5">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>DIAMM Publications</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+
+            <div>
+                <head>DIAMM Digital Restoration Workbook</head>
+                <p><hi rend="bold">An introduction to digital restoration techniques using high
+                    resolution digital images.</hi></p>
+                <p><figure><graphic url="workbook.jpg" mimeType="image/jpg" rend="left"/></figure>The DIAMM Digital Restoration Workbook was
+                    written in response to a demand for information about digital restoration
+                    techniques demonstrated by Dr Craig-McFeely at various conferences and other
+                    venues. With the financial and administrative support of the AHRC ICT Methods
+                    Network a workshop was organised in June 2006 for which this textbook was
+                    printed. The printed copies are sold out, but as it was prepared as press-ready
+                    pdf this has now been made available for download. The copy supplied is at print
+                    resolution so that the colour images can be clearly read both on screen and when
+                    printed.</p>
+                <p>The book utilises samples and images drawn from the DIAMM collection, and the
+                    images were used by the workshop participants. Due to rights
+                    restrictions the images are only available for demonstration purposes and are
+                    therefore not available for download. However, access
+                    to the images shown in the workbook, and the samples prepared for the workshop
+                    is not essential to an understanding of the techniques described, which can
+                    easily be applied to any image of suitable type and resolution. The workbook has
+                    proved a useful starting point for dealing with images of damaged documents for
+                    researchers in many fields, both those with prior experience of digital
+                    restoration and those who have never attempted to adjust an image.</p>
+                <p>The techniques described make use of Adobe Photoshop, and do not require more
+                    than a fairly basic knowledge of the software in order to understand the
+                    descriptions. Those unfamiliar with Photoshop may need a little while to
+                    familiarise themselves with the software interface before embarking on
+                    restoration work using the workbook, but should find the information in the
+                    workbook helpful in understanding and accessing the various tools available. All
+                    the images in the book are copyright and may not be reproduced except for
+                    personal research purposes. The workbook may be downloaded on the understanding
+                    that it is only reproduced for personal use: it may not be reprinted and sold or
+                    otherwise distributed by a third party.</p>
+                <p>You may download the Workbook using the links below:</p>
+                <p><ref type="external" target="http://www.diamm.ac.uk/redist/pdf/RestorationWorkbook.pdf">Complete Workbook
+                    (58Mb)</ref> | <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/RestorationWorkbook1.pdf">Chapter 1</ref> | <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/RestorationWorkbook2.pdf">Chapter 2</ref> | <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/RestorationWorkbook3.pdf">Chapter 3</ref> | <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/RestorationWorkbook4.pdf">Chapter 4</ref></p>
+            </div>
+       
+            
+        </body>
+    </text>
+</TEI>

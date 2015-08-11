@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_2"
+    xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Online Doctoral Dissertations</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <head/>
+
+            <!--
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_5" n="A">Allsen</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_4" n="B">Margaret Bent, Name of Dissertation</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_6" n="B">Berry</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_7" n="B">Blachly</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            -->
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_8" n="B">Roger Bowers, Choral Institutions within
+                        the English Church:- Their constitution and development 1340 - 1500 (PhD,
+                        University of East Anglia, 1975)</ref>
+                </head>
+                <p>[Taken from Introductory:] This thesis deals with the history of English
+                    liturgical choirs between the years 1340 and 1500. It seeks to enlighten the
+                    history of pre-Reformation English church music by relating to it the history of
+                    the personnel to whom its performance was entrusted.</p>
+                <p>
+                    <hi>Five PDF files, downloadable</hi>
+                </p>
+
+            </div>
+
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_9" n="C">Alice V. Clark, Concordare cum Materia:
+                        The Tenor in the Fourteenth-century Motet (PhD, Princeton University,
+                        1996)</ref>
+                </head>
+                <p>This study takes as its starting point the description of motet composition by
+                    Egidius de Murino, who says that the tenor should "concord with the matter" of
+                    the motet to be written. The repertory under consideration at this stage is the
+                    French tradition of the mid-fourteenth century, mostly transmitted in the
+                    complete-work manuscripts of Guillaume de Machaut...</p>
+                <p>
+                    <hi>One PDF file, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                    <ref type="external" target="http://www.ramesescats.co.uk/thesis/">Julia M. Craig-McFeely, English Lute
+                        Manuscripts and Scribes 1530-1630 (DPhil, University of Oxford, 1993)
+                        1530-1630</ref>
+                </head>
+                <p>An examination of the place of the lute in 16th- and 17th-century English Society
+                    through a study of the English Lute Manuscripts of the so-called 'Golden Age',
+                    including a comprehensive catalogue of the sources.</p>
+                <p><hi>Downloadable from author's website</hi></p>
+            </div>
+            <!--
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_10" n="C">Cobin</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_11" n="C">Cox</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            -->
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_12" n="C">Michael Scott Cuthbert, Trecento
+                        Fragments and Polyphony Beyond the Codex (PhD, Harvard University,
+                        2006)</ref>
+                </head>
+                <p>This thesis seeks to understand how music sounded and functioned in the Italian
+                    trecento based on the examination of all the surviving sources, rather than only
+                    the most complete. A majority of surviving sources of Italian polyphonic music
+                    from the period 1330-1420 are fragments; most, the remnants of lost manuscripts.
+                    Despite their numerical dominance, music scholarship has viewed these sources as
+                    secondary...</p>
+                <p>
+                    <hi>Many PDF files, in different formats and resolutions, downloadable from
+                        author's website</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_29" n="E">Warwick A. Edwards, The sources of
+                        Elizabethan consort music (PhD, Cambridge University, 1974)</ref>
+                </head>
+                <p>The main part of the dissertation is concerned with a detailed investigation of
+                    all known sources which contain consort music estimated to have been written
+                    during the period 1550 to 1600 approximately. These are over eighty in number
+                    (mainly manuscripts) and range in date from c1570 to the mid-seventeenth
+                    century. A second volume is devoted to a thematic catalogue in which the entire
+                    repertory, listed under individual sources in Volume One, is collected together
+                    and classified.</p>
+                <p>
+                    <hi>Five PDF files, downloadable</hi>
+                </p>
+            </div>
+            <!--
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_13" n="E">Earp</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_14" n="E">Etheridge</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_15" n="H">Haggh-Hugo</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_16" n="K">Kanazawa</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_17" n="L">Layton</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            -->
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_3" n="L">Peter Martin Lefferts, The Motet in
+                        England in the Fourteenth Century (PhD, Columbia University, 1983)</ref>
+                </head>
+                <p>The history of polyphonic music in late medieval England is difficult to
+                    reconstruct on account of the paucity of intact sources, the concomitant lack of
+                    a substantial number of complete pieces, and the difficulty with which the
+                    surviving repertoire can be associated with any specific institutions or social
+                    milieu. Nonetheless, there are significant scattered remains, and this study
+                    endeavors to examine in detail one important genre, the motet...</p>
+                <p>
+                    <hi>Two PDF files, downloadable</hi>
+                </p>
+            </div>
+            <!--
+            <div>
+                <head>
+                <ref type="internal" cRef="p13_18" n="N">Nadas</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            -->
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_19" n="L">Adelyn Peck Leverett, A Paleographical
+                        and Repertorial Study of the Manuscript Trento, Castello del Buonconsiglio,
+                        91 (1378)(PhD, Princeton University, 1990)</ref>
+                </head>
+                <p>This dissertation is an anaiysis of Trent 91, one of the series of
+                    fifteenth-century musical manuscripts known collectively as the Trent Codices.
+                    Trent 91 contains a large repertory of sacred music, most of it anonymously and
+                    uniquely preserved. The following study defines, for the first time, that
+                    repertory's pivotal place in the larger context of musical developments during
+                    the Renaissance.</p>
+                <p>
+                    <hi>Three PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_20" n="R">Gilles Rico, Music in the Arts Faculty
+                        of Paris in the Thirteenth and Early Fourteenth Centuries (DPhil, University
+                        of Oxford, 2005)</ref>
+                </head>
+                <p>In the thirteenth-century, the city of Paris witnessed the birth of the
+                    University, the gradual penetration of the new philosophical paradigm of
+                    Aristotelianism and the emergence of a new theoretical discourse dealing with
+                    the measurement and notation of musical time. Scholars have attempted to find
+                    correlations between these three distinct phenomena. Focusing on music theory
+                    sources and on other indirect testimonies, they have never satisfactorily
+                    approached the central question of the teaching of music in the Arts faculty of
+                    Paris. The objective of the present study is precisely to explore this terra
+                    incognita.</p>
+                <p>
+                    <hi>One PDF file, downloadable</hi>
+                </p>
+            </div>
+
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_21" n="S">Nicholas Sandon, The Henrican Partbooks
+                        Belonging to Peterhouse: A Study, with Restorations of the Incomplete
+                        Compositions Contained in Them (PhD, University of Exeter, 1983)</ref>
+                </head>
+                <p>This dissertation examines Cambridge, University Library, Peterhouse mss 471–474,
+                    four partbooks from a set of five copied late in the reign of Henry VIII, which
+                    contain seventy-two pieces of Latin church music.</p>
+                <p>
+                    <hi>Two PDF files, downloadable</hi>
+                </p>
+            </div>
+
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_31" n="S">Uri Smilansky, Rethinking <hi
+                            rend="italic">Ars Subtilior</hi>: Context, Language, Study and
+                        Performance (PhD, University of Exeter, 2010)</ref>
+                </head>
+                <p>This dissertation attempts to re-contextualise the late fourteenth and early
+                    fifteenth century musical phenomenon now referred to as the Ars subtilior, in
+                    terms of our modern understanding of it, as well as its relationship to wider
+                    late medieval culture. In order to do so I re-examine the processes used to
+                    formulate existing retrospective definitions, identify a few compelling reasons
+                    why their re-evaluation is needed, and propose an alternative approach towards
+                    this goal.</p>
+                <p>
+                    <hi>One PDF file, downloadable</hi>
+                </p>
+            </div>
+
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_22" n="S">Jason Stoessel, The Captive Scribe: The
+                        context and culture of scribal and notational process in the music of the
+                        ars subtilior (PhD, University of New England, 2002)</ref>
+                </head>
+                <p>The extant scribal record of the music of the ars subtilior is considered in
+                    terms of the reception of this musical style within particular cultural
+                    contexts. The first part of this study re-examines the two principal sources
+                    (F-CH!564 and I-MOe5.24) of a partially shared ars subtilior repertoire and
+                    concludes that, despite the presence in part of a repertoire ostensibly composed
+                    north of the Alps (c. 1380-1395), these manuscripts were compiled in or close to
+                    major centres on the Italian peninsula (Florence and Pisa/Bologna/Florence
+                    respectively). These conclusions form the background to the second part of this
+                    study that identifies cultural tendencies/influences in the notation of musical
+                    rhythm in the ars subtilior repertoire.</p>
+                <p>
+                    <hi>Two PDF files, downloadable</hi>
+                </p>
+            </div>
+            <!--
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_23" n="T">Trowell</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+-->
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_24" n="W">Jean Widaman, The Mass Ordinary
+                        Settings of Arnold de Lantins: A Case Study in the Transmission of Early
+                        Fifteenth-century Music (PhD, Brandeis University, 1988)</ref>
+                </head>
+                <p>Arnold de Lantins, a composer widely represented in the musical sources of the
+                    1420s and 1430s and a singer in the papal chapel from 1431 to 1432, stood at the
+                    forefront of stylistic developments of the early fifteenth century, yet his
+                    music is hardly known among music historians and performers today. Although he
+                    was one of the first composers to link the Gloria and Credo by motto beginnings
+                    and to write a complete, musically unified Mass cycle, few of his Ordinary
+                    settings are available in modern transcription and little has been written about
+                    them.</p>
+                <p>
+                    <hi>Two PDF files, downloadable</hi>
+                </p>
+            </div>
+
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_25" n="W">Magnus Williamson, The Eton Choirbook:
+                        Its Institutional and Historical Background (DPhil, Oxford, 1997)</ref>
+                </head>
+                <p>The Eton Choirbook (Eton College Library, MS 178) is one of the most important
+                    English musical codies surviving from the century before the Reformation. Its
+                    significance derives from its size and quality; from its value as a source of
+                    unica; and from its unbroken association with its host institution, one of the
+                    foremost royal foundations of the late Middle Ages.</p>
+                <p>
+                    <hi>Two PDF files, downloadable</hi>
+                </p>
+            </div>
+            <!--
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_26" n="W">Wolinski</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                    <ref type="internal" cRef="p13_27" n="W">Woods</ref>
+                </head>
+                <p> Bit of Abstract </p>
+                <p>
+                    <hi>Some PDF files, downloadable</hi>
+                </p>
+            </div>
+            -->
+        </body>
+    </text>
+</TEI>

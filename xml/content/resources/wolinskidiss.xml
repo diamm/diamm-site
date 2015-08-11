@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_26">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Wolinski</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+            <head/>
+
+            <div>
+                <head>PDF Download Links</head>
+
+                <!-- PDF links -->
+                <p>
+                    <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/LeffertsChap.pdf">Full dissertation without
+                        appendices (34.2 MB)</ref> | <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/LeffertsAppen.pdf">Appendices only (34.4 MB)</ref></p>
+            </div>
+            <div>
+                <head>Abstract</head>
+                <!-- Abstract -->
+                <p> Wolinski's Abstract </p>
+            </div>
+            <div>
+                <head>Table of Contents</head>
+                <p>
+                    <!-- Table of Contents -->
+                </p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

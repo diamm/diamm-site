@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p13_22" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Jason Stoessel, The Captive Scribe: The context and culture of scribal and
+                    notational process in the music of the ars subtilior (PhD, University of New England, 2002)</title>
+            </titleStmt>
+            <publicationStmt><publisher>King's College London</publisher><pubPlace>London</pubPlace></publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc><revisionDesc><change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where necessary</change><change><date>2009-27-05</date><name>Greg Skidmore</name>Created page</change></revisionDesc></teiHeader>
+
+    <text>
+        <body>
+            <head/>
+
+            <div>
+                <head>PDF Download Links</head>
+
+                <!-- PDF links -->
+                <p>
+                    <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/Stoessel_v1.pdf">Volume 1 (8.7 MB)</ref> | <ref type="external" target="http://www.diamm.ac.uk/redist/pdf/Stoessel_v2.pdf">Volume 2 (7 MB)</ref></p>
+            </div>
+            <div>
+                <head>Abstract</head>
+                <!-- Abstract -->
+                <p>The extant scribal record of the music of the ars subtilior is considered in
+                    terms of the reception of this musical style within particular cultural
+                    contexts. The first part of this study re-examines the two principal sources
+                    (F-CH!564 and I-MOe5.24) of a partially shared ars subtilior repertoire and
+                    concludes that, despite the presence in part of a repertoire ostensibly composed
+                    north of the Alps (c. 1380-1395), these manuscripts were compiled in or close to
+                    major centres on the Italian peninsula (Florence and Pisa/Bologna/Florence
+                    respectively). These conclusions form the background to the second part of this
+                    study that identifies cultural tendencies/influences in the notation of musical
+                    rhythm in the ars subtilior repertoire. Notational process as a whole is
+                    conceptualised according to neo-Aristotelean ontology present in musical theory
+                    of the fourteenth and fifteenth centuries. Notational process in relation to
+                    special note shapes is split into two groups: a northern Italian school
+                    originating in Lombardy and extending at least as far as Tuscany which employed
+                    an arithmetic process in the construction of new note shapes; and a tradition
+                    stemming from proportional processes with origins in France which were
+                    subsequently adopted and modified by scribes and composers from Italian centres.
+                    In relation to mensuration signs, variation in forms and meanings in datable
+                    works suggest the existence of a notational school of thought c. 1380 which
+                    bridges the earlier modes of intrinsic signification with the increasingly
+                    extrinsic modes that emerged at the end of the fourteenth century. A major
+                    revision of the received view concerning the influence of the mathematical
+                    process of algorism upon notational process is argued with the conclusion that
+                    algorithmic concepts were already present in the notation of the ars subtilior
+                    before the end of the fourteenth century. A new edition of pertinent works also
+                    accompanies the study.</p>
+            </div>
+            <div>
+                <head>Table of Contents</head>
+                <p/>
+            </div>
+            <div type="contents">
+                <head>Volume 1: Thesis</head>
+                <xmt:uList>
+                    <item>Contents<ref type="pageref">iv</ref></item>
+                    <item>Abstract<ref type="pageref">v</ref></item>
+                    <item>Acknowledgements<ref type="pageref">vi</ref></item>
+                    <item>Indices of Tables and Figures<ref type="pageref">viii</ref></item>
+                    <item>Key to Abbreviations<ref type="pageref">x</ref></item>
+                    <item>Prologue<ref type="pageref">1</ref></item>
+                    <item>Chapter 1: What is the ars subtilior<ref type="pageref">10</ref></item>
+                    <item>Chapter 2: A source in Italy? Observations of scribal process and
+                        filiation in Codex Chantilly<ref type="pageref">24&gt;</ref>
+                        <xmt:uList>
+                            <item>2.1 Physical and scribal characteristics<ref type="pageref">30</ref></item>
+                            <item>2.2 Contents and repertorial considerations<ref type="pageref">36</ref></item>
+                            <item>2.3 Evidence of editorial activity<ref type="pageref">54</ref></item>
+                            <item>2.4 The index: clues to Codex Chantilly's early provenance<ref type="pageref">64</ref></item>
+                            <item>2.5 Relationships with other sources<ref type="pageref">68</ref></item>
+                            <item>2.6 Conclusions<ref type="pageref">92</ref></item>
+                        </xmt:uList></item>
+                    <item>Chapter 3: A French legacy in the hands of Italian masters: The manuscript
+                        Modena, Biblioteca estense, alpha.M.5.24<ref type="pageref">94</ref>
+                        <xmt:uList>
+                            <item>3.1 Physical and scribal characteristics<ref type="pageref">98</ref></item>
+                            <item>3.2 Illumination and rubricae<ref type="pageref">109</ref></item>
+                            <item>3.3 Contents and repertorial considerations<ref type="pageref">111</ref></item>
+                            <item>3.4 Composers in MOe5.24<ref type="pageref">127</ref></item>
+                            <item>3.5 Relationships with other sources<ref type="pageref">145</ref></item>
+                            <item>3.6 The provenance and origin of the manuscript<ref type="pageref">173</ref></item>
+                            <item>3.7 Conclusions<ref type="pageref">182</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Chapter 4: The notational grammar of the ars subtilior<ref type="pageref">184</ref>
+                        <xmt:uList>
+                            <item>4.1 Coloration<ref type="pageref">194</ref></item>
+                            <item>4.2 Special note shapes<ref type="pageref">204</ref></item>
+                            <item>4.3 Conclusions<ref type="pageref">237</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Chapter 5: The use of mensuration signs in French and Italian notational
+                        systems: Observations concerning theory, practice and semiotic
+                            intertextuality<ref type="pageref">239</ref>
+                        <xmt:uList>
+                            <item>5.1 Mensuraion signs in French notational theory<ref type="pageref">241</ref></item>
+                            <item>5.2 The signa divisions in Italian notation and theory<ref type="pageref">248</ref></item>
+                            <item>5.3 The early practical application of mensuration signs in French
+                                    notation<ref type="pageref">257</ref></item>
+                            <item>5.4 The use of tempus mensuration signs in works in the ars
+                                subtilior style<ref type="pageref">260</ref></item>
+                            <item>5.5 Proportional uses of mensurataion signs in the ars
+                                    subtilior<ref type="pageref">273</ref></item>
+                            <item>5.6 Conclusions<ref type="pageref">281</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Chapter 6: Algorism, proportionality and the notation of the ars
+                        subtilior: Some observations on the dating of the works of Baude Cordier<ref type="pageref">2834</ref>
+                        <xmt:uList>
+                            <item>6.1 The rise of algorism in European culture<ref type="pageref">285</ref></item>
+                            <item>6.2 Algorism in theory and practice of mensural music<ref type="pageref">289</ref></item>
+                            <item>6.3 Baude Cordier reconsidered<ref type="pageref">306</ref></item>
+                            <item>6.4 Conclusions<ref type="pageref">315</ref></item>
+                        </xmt:uList><p></p>
+                    </item>
+                    <item>Epilogue<ref type="pageref">317</ref></item>
+                    <item>Appendum<ref type="pageref">321</ref></item>
+                    <item>Bibliography<ref type="pageref">341</ref></item>
+                    <item>Index of Compositions<ref type="pageref">373</ref></item>
+                    <item>General Index to Volume 1<ref type="pageref">378</ref></item>
+                </xmt:uList><p></p>
+            </div>
+            <div type="contents">
+                <head>Volume 2: Appendices</head>
+                <xmt:uList>
+                    <item>Introductory Remarks<ref type="pageref">6</ref></item>
+                    <item>Appendix A: Edited Compositions<ref type="pageref">9</ref></item>
+                    <item>Apepndix B: Critical notes to edited works<ref type="pageref">309</ref></item>
+                    <item>Indices to Volume 2<ref type="pageref">424</ref></item>
+                </xmt:uList><p></p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

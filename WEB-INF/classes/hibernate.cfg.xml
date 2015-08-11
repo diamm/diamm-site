@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+  "-//Hibernate/Hibernate Configuration DTD//EN"
+  "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="connection.url">jdbc:mysql://localhost:3306/diamm_ess</property>
+      <!--<property name="connection.url">jdbc:mysql://my-stg-1.cch.kcl.ac.uk:3306/diamm_ess</property>-->
+      <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+    <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+      <property name="connection.charSet">utf8</property>
+    <property name="connection.username">root</property>
+    <property name="connection.password"></property>
+     <!-- <property name="connection.username">ehall</property>
+    <property name="connection.password">fu0EAhko</property>-->
+     <property name="hibernate.cache.use_second_level_cache">true</property>
+     <!-- <property name="hibernate.cache.region.factory_class">
+              net.sf.ehcache.hibernate.SingletonEhCacheRegionFactory</property>-->
+      <property name="transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>
+      <property name="current_session_context_class">thread</property>
+       <!--We may cache queries if it turns out to be useful
+       <property name="cache.use_query_cache">true</property>-->
+    <!-- DB schema will be updated if needed
+    <property name="cache.use_second_level_cache">true</property>
+    -->
+    <property name="hibernate.search.default.directory_provider">org.hibernate.search.store.FSDirectoryProvider</property>
+
+<property name="hibernate.search.default.indexBase">/usr/local/lucene/indexes</property>
+
+
+    <!-- use c3p0 connection pooling -->
+    <property name="connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property>
+    <property name="hibernate.c3p0.min_size">4</property>
+    <property name="hibernate.c3p0.max_size">30</property>
+    <property name="hibernate.c3p0.idle_test_period">7200</property>
+    <property name="hibernate.c3p0.timeout">7300</property>
+    <property name="hibernate.c3p0.max_statements">50</property>
+    
+    <property name="hbm2ddl.auto">validate</property>
+      
+      <mapping class="uk.ac.kcl.cch.diamm.model.Archive"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Item"/>
+
+      <mapping class="uk.ac.kcl.cch.diamm.model.Source"/>
+
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alcity"/>
+
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alcountry"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Composer"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Composition"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Compositioncomposer"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Compositiongenre"/>
+
+      <mapping class="uk.ac.kcl.cch.diamm.model.Image"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Itemimage"/>
+
+      <mapping class="uk.ac.kcl.cch.diamm.model.Set"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Sourcealperson"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Sourceprovenance"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Sourceset"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Text"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Textlanguage"/>
+
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alclef"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Algenre"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Allanguage"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Almensuration"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alperson"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alprovenance"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alvoice"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alauthor"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Authorbibliography"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Bibliographysource"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Bibliography"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Notationsource"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Secondaryimage"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Sourcecopyist"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Textnotationitem"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alaffiliation"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alcopyist"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alcopyisttype"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alnotationtype"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alsettype"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Altextnotationtype"/>
+
+      <mapping class="uk.ac.kcl.cch.diamm.model.DiammUser"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.UserRole"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Note"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Notetype"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.NoteVisibility"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Usernote"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.NoteImage"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.NoteSource"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Collection"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Bibliographycomposition"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Bibliographyitem"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Bibliographytext"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.FacetCriterionEntity"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Compositioncycle"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Compositioncyclecomposition"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.Alcycletype"/>
+      <mapping class="uk.ac.kcl.cch.diamm.model.AlPersonRelationship"/>
+      <!--<mapping class="uk.ac.kcl.cch.diamm.model.FacetCriterionEntitywtfwtf"/>-->
+      <!--      <class-cache class="uk.ac.kcl.cch.diamm.modelel.Alprovenance" usage="read-only"/>-->
+  </session-factory>
+</hibernate-configuration>

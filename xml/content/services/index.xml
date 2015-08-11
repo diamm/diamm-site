@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p11" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Services</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p> </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2012-02-13" who="Julia Craig-McFeely">Corrected internal links</change>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2008-10-09</date><name>Greg Skidmore</name>Added page, removed other
+                pages' content</change>
+            <change><date>2008-02-22</date><name>Greg Skidmore</name>Finalised content</change>
+            <change><date>2008-02-18</date><name>Greg Skidmore</name>Created first version of
+                content</change>
+            <change><date>2008-01-24</date><name>AC</name>created doc</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>These pages contain details of the sercives DIAMM provides:</p>  
+            </div>
+            <div>
+                <xmt:uList>
+                    <item><ref type="internal" cRef="p11_0">Consultancy</ref></item>
+                    <item><ref type="internal" cRef="p11_1">Imaging</ref></item>
+                    <item><ref type="internal" cRef="p11_2">Digital Restoration</ref></item>
+                    <item><ref type="internal" cRef="p11_3">Grant Applications</ref></item>
+                    <item><ref type="internal" cRef="p11_4">Online Image Delivery</ref></item>
+                </xmt:uList><p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

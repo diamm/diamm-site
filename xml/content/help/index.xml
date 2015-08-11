@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="p9"
+    xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Website Help</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>King's College London</publisher>
+                <pubPlace>London</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>BasicWebsite.pdf</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-03-16" who="Charlotte Tupman">Added links</change>
+            <change when="2011-02-22" who="Charlotte Tupman">Converted to P5 and hand-tidied where
+                necessary</change>
+            <change><date>2006-05-10</date><name>Julia Craig-McFeely</name>Text content
+                update</change>
+            <change><date>2004-07-5</date><name>Arianna Ciula</name>creation of p0</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <div>
+                <head>Website Help</head>
+                <div>
+                    <head>How to find your way around the website</head>
+                    <p>DIAMM was conceived as a resource for academic researchers working on
+                        Medieval music. Because it was designed for users who are already familiar
+                        with the information it contains, it may not be immediately obvious when you
+                        enter the site how to find out what is here and in what ways you can use
+                        it.</p>
+                    <p>We hope in the future to add a section that helps non-expert users to get
+                        more out of the website. We would be glad to hear of any suggestions for
+                        content in that section. Please use the <ref type="internal" cRef="p1_9"
+                            >contact page</ref> to send in your suggestions.</p>
+                    <p>
+                        <figure>
+                            <graphic url="Help01"/>
+                        </figure>
+                    </p>
+                    <!--
+                    <p>or <xref type="internal" from="p2_9" to="DITTO" targOrder="U">Feedback
+                        form.</xref></p>
+                    <p>
+                        <figure url="Help02"/>
+                    </p>-->
+
+                    <p> The content of the website is divided into seven sections and a Home page: <xmt:uList>
+                            <item><ref type="internal" cRef="p0">Home</ref></item>
+                            <item><ref type="internal" cRef="p1_1">About</ref></item>
+                            <item>Image Database</item>
+                            <item>Bibliography</item>
+                            <item><ref type="internal" cRef="p11">Services</ref></item>
+                            <item><ref type="internal" cRef="p2">Publications</ref></item>
+                            <item><ref type="internal" cRef="p13">Resources</ref></item>
+                            <item><ref type="internal" cRef="p9">Help</ref></item>
+                        </xmt:uList><p/>
+                    </p>
+                    <p>
+                        <figure>
+                            <graphic url="Help03"/>
+                        </figure>
+                    </p>
+                    <p>If you click on any of these headings you will go to that section. In some
+                        cases (About, Publications) a new navigation bar will appear on the left of
+                        the screen that divides up the content of that subject area into smaller
+                        sections.</p>
+                    <p>
+                        <figure>
+                            <graphic url="Help04"/>
+                        </figure>
+                    </p>
+
+                    <!--                    TURN BOLD BELOW INTO LINKS?-->
+
+                    <p>The <hi rend="bold">About</hi> section tells you about the project, who is
+                        involved with it and what we do generally.</p>
+                    <p><hi rend="bold">Services</hi> tells you about the services offered by DIAMM
+                        to other projects and individuals.</p>
+                    <p><hi rend="bold">Publications</hi> lists the volumes published by DIAMM and
+                        provides a link to the DIAMM shop.</p>
+                    <p><hi rend="bold">Resources</hi> details the scholarly editions of music
+                        related to the research interests of DIAMM and fully browsable and
+                        searchable PhD dissertations also in this area of scholarship.</p>
+                    <!--<p><hi rend="bold">Manuscript Images</hi> enters the part of the site that
+                        allows you to access information about manuscripts see pictures of them
+                        where they are available. You MUST be logged in to see the manuscript
+                        images. They are not available to non-registered users.</p>-->
+                    <!--<p><hi rend="bold">My DIAMM</hi> is for registered users. Anyone can register
+                        for use of the DIAMM resource (it is free), and the links in this section
+                        will guide you through the steps. Your password will be sent to your e-mail
+                        account. <hi rend="italic">You do not have to register for use of the
+                            site</hi> in order to read about the manuscripts, but you will need to
+                        be registered to look at the images. (Your registration details will not be
+                        used for mailing or communicated to a third party.) Registration creates a
+                        set of tools that are personalised for the user, and this, together with the
+                        agreement to respect the copyright regulations that you agree to during
+                        registration is why we ask users to register on the site before gaining
+                        access to the images.</p>-->
+                    <p><figure>
+                            <graphic url="Help05"/>
+                        </figure></p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
