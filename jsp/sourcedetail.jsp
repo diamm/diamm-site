@@ -34,7 +34,7 @@
     <script type="text/javascript" src="../_a/s/jquery.tools.min.js"></script>
     <script type="text/javascript" src="../_a/s/jquery.lightbox-0.5.min.js"></script>
     <script type="text/javascript" src="../_a/s/tiny_mce/tiny_mce.js"></script>
-    <script type="text/javascript" src="../_a/s/jquery.unveil.js"></script>
+    <script type="text/javascript" src="../_a/s/jquery.unveil.min.js"></script>
     <%--<script type="text/javascript" src="../_a/s/c.js"></script>--%>
     <script type="text/javascript">
         $(document).ready(function () {
