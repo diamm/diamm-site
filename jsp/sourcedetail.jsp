@@ -23,8 +23,8 @@
     <!--[if IE 9]>
     <link rel="stylesheet" type="text/css" href="../_a/c/msie.9.css" media="screen"/><![endif]-->
     <link rel="stylesheet" type="text/css" href="../_a/c/jquery.lightbox-0.5.css" media="screen"/>
-    <%--<script type="text/javascript" src="../_a/s/jquery-1.5.min.js"></script>--%>
-    <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../_a/s/jquery-1.5.min.js"></script>
+    <%--<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>--%>
     <%--<script type="text/javascript" src="../_a/s/jquery-ui.min.js"></script>--%>
     <%--<script type="text/javascript" src="../_a/s/jquery-ui-1.8.10.custom.min.js"></script>--%>
     <script type="text/javascript" src="../_a/s/jquery-ui-1.8.13.custom.min.js"></script>
