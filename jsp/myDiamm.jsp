@@ -109,7 +109,7 @@
                 <li class="commentsListItem">
                     <div class="comments image">
                         <a href="AnnotationManager?imageKey=${pbComm.noteImage.imagekey}"><img height="100"
-                                                                                               src="//diamm.cch.kcl.ac.uk/thumbsup/${pbComm.noteImage.filename}"/></a>
+                                                                                               src="/thumbsup/${pbComm.noteImage.filename}"/></a>
                         <c:if test="${pbComm.noteImage.folio!=null}"><span>${pbComm.noteImage.folio}</span></c:if>
                     </div>
                     <div class="comments">

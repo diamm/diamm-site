@@ -394,7 +394,7 @@
 
                         <a href="AnnotationManager?imageKey=${image.imagekey}">
                             <img height="100" src="../_a/i/spinner.gif"
-                                 data-src="//diamm.cch.kcl.ac.uk/thumbsup/${image.filename}"/>
+                                 data-src="/thumbsup/${image.filename}"/>
                         </a>
                         <span> ${image.folio}</span>
 

@@ -480,7 +480,7 @@
                 <c:choose>
                     <c:when test="${i.orderno==image.orderno}">
                         <li class="s1"><img height="100" style="border:3px solid #c00;padding:3px"
-                                            src="//diamm.cch.kcl.ac.uk/thumbsup/${i.filename}"/>
+                                            src="/thumbsup/${i.filename}"/>
                             <span>${i.folio}</span></li>
                     </c:when>
                     <c:otherwise>

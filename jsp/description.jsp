@@ -243,7 +243,7 @@
                 <li>
                 <c:if test="${image.filename!=null}">
                     <a href="AnnotationManager?imageKey=${image.imagekey}">
-                        <img height="100" src="//diamm.cch.kcl.ac.uk/thumbsup/${image.filename}"/>
+                        <img height="100" src="/thumbsup/${image.filename}"/>
                     </a>
                     ${image.folio}
                     <c:if test="${image.copyrightstatement!=null}">${image.copyrightstatement}</></c:if>

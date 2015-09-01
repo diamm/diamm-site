@@ -16,7 +16,7 @@
                 <image>
                     <title>${image.folio}</title>
                     <description>${image.sourceBySourcekey.archiveByArchivekey.siglum}  ${image.sourceBySourcekey.shelfmark}</description>
-                    <url>//diamm.cch.kcl.ac.uk/thumbsup/${image.filename}</url>
+                    <url>/thumbsup/${image.filename}</url>
                     <linkurl>jsp/AnnotationManager?imageKey=${image.imagekey}</linkurl>
                 </image>
             </c:forEach>

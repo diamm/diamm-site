@@ -90,7 +90,7 @@
                             <li>
                                 <c:if test="${image.filename!=null}">
                                     <a href="AnnotationManager?imageKey=${image.imagekey}"><img  height="100"
-                                            src="//diamm.cch.kcl.ac.uk/thumbsup/${image.filename}"/></a>
+                                            src="/thumbsup/${image.filename}"/></a>
                                     <c:if test="${image.folio!=null}"><span>${image.folio}</span></c:if>
                                 </c:if>
                                 <a href="${unlinkUrl}">remove</a>
