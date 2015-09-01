@@ -11,3 +11,6 @@
 /.idea
 
 /diamm.iml
+
+/WEB-INF/logs/cocoon.log
+/WEB-INF/logs/deprecation.log
